@@ -1,0 +1,17 @@
+# Secrets (keep the example file)
+.env
+.env.*
+!.env.example
+
+# Python
+backend/.venv/
+__pycache__/
+backend/data/learn.db
+
+# Node / Next.js / Vercel
+node_modules/
+.next/
+.vercel/
+*.tsbuildinfo
+
+.DS_Store

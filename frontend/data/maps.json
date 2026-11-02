@@ -1,0 +1,2626 @@
+[
+ {
+  "slug": "jmb-lifecycle",
+  "title": "From developer to Joint Management Body (JMB)",
+  "summary": "This process covers strata management before a management corporation (MC) exists, under Part IV of the Act (Peninsular Malaysia and Labuan only). It applies where the developer has delivered vacant possession of a parcel and no MC has come into existence at that time [Act s.7(1)]. The developer manages first. A Joint Management Body (JMB) of the developer and purchasers then takes over and runs the development until it hands over to the MC and dissolves.",
+  "steps": [
+   {
+    "title": "Notify Commissioner and pay defects deposit",
+    "actor": "Developer",
+    "detail": "Within 21 days before delivering vacant possession, the developer files Form 25 with the Commissioner. It must attach an architect's or engineer's certificate of estimated construction costs and the RM100 fee. The Commissioner sets the deposit in Form 26 at not less than 0.5% of estimated construction costs or RM50,000, whichever is higher. The deposit is paid in cash or bank guarantee upon handing over vacant possession.",
+    "deadline": "Form 25 within 21 days prior to delivery of vacant possession; deposit upon handing over vacant possession",
+    "penalty": "Failure to deposit: fine not exceeding RM5,000 and a further fine not exceeding RM50 for every day the offence continues after conviction",
+    "branches": [
+     {
+      "if": "The Commissioner determines the deposit is insufficient to rectify common property defects",
+      "then": "The Commissioner may direct the developer to deposit further sums within 14 days",
+      "cites": [
+       "Act s.92(4)"
+      ]
+     }
+    ],
+    "cites": [
+     "Reg r.46(1)",
+     "Reg r.46(2)",
+     "Reg r.47(1)",
+     "Reg r.47(2)",
+     "Reg r.48",
+     "Act s.92(1)",
+     "Act s.92(2)",
+     "Act s.92(6)",
+     "Reg First Schedule",
+     "Form 25",
+     "Form 26"
+    ]
+   },
+   {
+    "title": "Open maintenance and sinking fund accounts",
+    "actor": "Developer",
+    "detail": "The developer opens one maintenance account and one sinking fund account for each development area with a bank or financial institution. Nobody may collect charges or sinking fund contributions until both accounts are open and the purchaser has received vacant possession.",
+    "deadline": "Any time before delivery of vacant possession, and in any case before collecting money from any purchaser",
+    "penalty": "Fine not exceeding RM250,000 or imprisonment not exceeding 3 years or both",
+    "branches": [
+     {
+      "if": "Vacant possession was delivered before the Act commenced",
+      "then": "The accounts must be opened on the date the Act commenced",
+      "cites": [
+       "Act s.10(1)(a)",
+       "Act s.11(1)(a)"
+      ]
+     },
+     {
+      "if": "The development was completed on or before commencement and the developer was already collecting money",
+      "then": "The developer may continue collecting until the JMB is established, but must deal with all moneys in accordance with the Act",
+      "cites": [
+       "Act s.13(2)"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.10(1)(b)",
+     "Act s.11(1)(b)",
+     "Act s.13(1)",
+     "Act s.10(7)",
+     "Act s.11(7)",
+     "Act s.13(3)"
+    ]
+   },
+   {
+    "title": "Developer manages during developer's management period",
+    "actor": "Developer",
+    "detail": "The developer's management period runs from delivery of vacant possession until one month after the JMB is established, or later if the Commissioner extends it. During it the developer must maintain and manage the property properly. Its duties include imposing charges, insuring, keeping a register of parcel owners (Form 9) and enforcing by-laws. It must also set aside an administration office out of the common property. It may not sign maintenance contracts that run past the end of the period.",
+    "deadline": null,
+    "penalty": "Breach of s.9(1), (2) or (4): fine not exceeding RM250,000 or imprisonment not exceeding 3 years or both. Failure to keep the register: fine not exceeding RM10,000 or imprisonment not exceeding 3 years or both",
+    "branches": [
+     {
+      "if": "Parcels were sold before commencement and no share units were assigned",
+      "then": "The person managing must assign share units by the First Schedule formula in Form 3 within 90 days of commencement (or as extended by the Commissioner)",
+      "cites": [
+       "Act s.8(1)",
+       "Reg r.9(1)",
+       "Act First Schedule",
+       "Form 3"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.7(2)",
+     "Act s.9(1)",
+     "Act s.9(2)",
+     "Act s.9(4)",
+     "Act s.9(5)",
+     "Act s.30(1)",
+     "Act s.30(2)",
+     "Reg r.18",
+     "Form 9",
+     "Reg r.17"
+    ]
+   },
+   {
+    "title": "Collect charges, sinking fund; keep accounts",
+    "actor": "Developer / Purchaser",
+    "detail": "The developer sets charges in proportion to allocated share units. The sinking fund contribution is 10% of the charges. The developer must pay the same amounts for its unsold parcels. Purchasers pay within 14 days of notice, and late sums carry interest at 10% per annum on a daily basis. All money must be deposited within 3 working days. The developer has the accounts audited annually and files a certified copy with the Commissioner within 14 days of the audit.",
+    "deadline": "Purchaser pays within 14 days of notice; deposits within 3 working days; audited accounts filed within 14 days of audit",
+    "penalty": "Developer not paying for unsold parcels: fine not exceeding RM20,000 or imprisonment not exceeding 3 years or both, plus up to RM5,000 per day for a continuing offence. Account failures under s.14: fine not exceeding RM250,000 or imprisonment not exceeding 3 years or both",
+    "branches": [
+     {
+      "if": "A purchaser disputes the amount of charges or sinking fund",
+      "then": "The purchaser may apply to the Commissioner for review. The Commissioner may fix the sum, or have the developer appoint a registered property manager at the developer's cost",
+      "cites": [
+       "Act s.12(7)",
+       "Act s.12(8)"
+      ]
+     },
+     {
+      "if": "A purchaser still has not paid after 14 days",
+      "then": "The developer serves a Form 11 notice demanding payment within at least 14 days. It then sues in court or the Tribunal, or applies for attachment of movable property. Ignoring the notice without reasonable excuse is an offence (fine not exceeding RM5,000 or imprisonment not exceeding 3 years or both)",
+      "cites": [
+       "Act s.34(1)",
+       "Act s.34(2)",
+       "Act s.34(3)",
+       "Act s.35(1)",
+       "Reg r.20",
+       "Form 11"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.12(1)",
+     "Act s.12(2)",
+     "Act s.12(3)",
+     "Act s.12(4)",
+     "Act s.12(5)",
+     "Act s.12(6)",
+     "Act s.12(9)",
+     "Act s.10(3)",
+     "Act s.11(3)",
+     "Act s.14(1)",
+     "Act s.14(5)"
+    ]
+   },
+   {
+    "title": "Convene first JMB annual general meeting",
+    "actor": "Developer",
+    "detail": "The developer must convene the first JMB AGM within 12 months of delivering vacant possession. It must give all purchasers at least 14 days' written notice in Form 5 and display the notice conspicuously. It must also present a 12-month budget and accounts audited up to a date not earlier than 3 months before the meeting. A purchaser may add a motion by written notice at least 7 days before the meeting.",
+    "deadline": "Within 12 months from delivery of vacant possession; notice not less than 14 days before the meeting",
+    "penalty": "Fine not exceeding RM250,000 or imprisonment not exceeding 3 years or both",
+    "branches": [
+     {
+      "if": "Vacant possession was delivered before the Act commenced",
+      "then": "The first AGM is due within 12 months from commencement of the Act",
+      "cites": [
+       "Act s.17(1)(a)"
+      ]
+     },
+     {
+      "if": "The developer fails to convene in time",
+      "then": "The Commissioner may appoint any person to convene the meeting, and the developer pays all the expenses",
+      "cites": [
+       "Act s.18(5)"
+      ]
+     },
+     {
+      "if": "The MC comes into existence before the first JMB AGM",
+      "then": "No AGM is needed, no JMB is established, and Part V applies instead",
+      "cites": [
+       "Act s.17(5)"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.17(1)(b)",
+     "Act s.18(1)",
+     "Act s.18(2)",
+     "Act s.18(3)",
+     "Act s.18(4)",
+     "Act s.14(1)(b)(ii)",
+     "Reg r.12(1)",
+     "Reg r.12(2)",
+     "Form 5"
+    ]
+   },
+   {
+    "title": "First AGM held: JMB established",
+    "actor": "JMB (developer and purchasers)",
+    "detail": "The JMB is established when the first AGM is convened, as a body corporate that can sue and be sued. The agenda includes electing the joint management committee, fixing charges and sinking fund, fixing the late-payment interest rate, taking over insurance and making additional by-laws. For quorum the developer counts as one person, but it votes on unsold parcels like a purchaser. The JMB registers its name with the Commissioner within 30 days. It sends Form 5A with the charges and interest rate within 28 days.",
+    "deadline": "Register name within 30 days of the first AGM; Form 5A within 28 days of the general meeting",
+    "penalty": null,
+    "branches": [
+     {
+      "if": "No purchaser entitled to vote turns up within half an hour, or all present refuse to serve on the committee",
+      "then": "The convenor informs the Commissioner within 7 days. The Commissioner may set a new election date or appoint a managing agent",
+      "cites": [
+       "Act s.19(2)",
+       "Act s.86(1)(a)"
+      ]
+     },
+     {
+      "if": "The first AGM is later invalidated or its agenda was not complied with",
+      "then": "The JMB's constitution is not affected",
+      "cites": [
+       "Act s.20(3)"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.17(2)",
+     "Act s.17(3)",
+     "Act s.17(4)",
+     "Act s.19(1)",
+     "Act s.20(1)",
+     "Act s.20(2)",
+     "Act s.22(2)(f)",
+     "Act s.22(2)(g)",
+     "Reg r.13",
+     "Reg r.14",
+     "Form 5A",
+     "Form 6"
+    ]
+   },
+   {
+    "title": "Developer hands over to the JMB",
+    "actor": "Developer",
+    "detail": "Before the developer's management period expires (one month after the JMB is established), the developer uses Form 4 to transfer the account balances. It also hands over the administration office, accounts, assets, records, plans, contracts, warranties, the register of parcel owners and the original insurance policies. If only unaudited accounts were handed over, the audited accounts follow within 3 months after the period expires.",
+    "deadline": "Before the developer's management period expires; audited accounts not more than 3 months after expiry",
+    "penalty": "Fine not exceeding RM250,000 or imprisonment not exceeding 3 years or both, plus up to RM5,000 per day for a continuing offence",
+    "branches": [
+     {
+      "if": "The developer does not transfer the balances",
+      "then": "The moneys, rights and pending claims vest in the JMB automatically on expiry of the developer's management period",
+      "cites": [
+       "Act s.16(1)",
+       "Act s.16(2)",
+       "Act s.16(3)"
+      ]
+     },
+     {
+      "if": "The development was completed before commencement and no MC exists",
+      "then": "The developer submits audited accounts of pre-JMB moneys in Form 8 within 6 months of JMB establishment. The Commissioner may extend this by up to 3 months",
+      "cites": [
+       "Act s.29(1)",
+       "Act s.29(2)",
+       "Reg r.16",
+       "Form 8"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.7(2)",
+     "Act s.15(1)",
+     "Act s.15(2)",
+     "Act s.15(3)",
+     "Act s.15(4)",
+     "Reg r.11",
+     "Form 4"
+    ]
+   },
+   {
+    "title": "JMB runs the development",
+    "actor": "JMB / Joint management committee",
+    "detail": "The JMB maintains the property and sets charges by allocated share units. The sinking fund is at least 10% of the charges, and late-payment interest may not exceed 10% per annum. The JMB may not sign maintenance contracts longer than 12 months. It audits its accounts annually and files them with the Commissioner within 14 days of the audit. It may make additional by-laws by special resolution, including fines not exceeding RM200, and files them within 14 days. Idle money above RM5,000 goes into an income-bearing deposit.",
+    "deadline": "Audited accounts filed within 14 days; additional by-laws filed within 14 days of the special resolution; AGMs yearly with not more than 15 months between them",
+    "penalty": "Account failures: every committee member liable to a fine not exceeding RM250,000 or imprisonment not exceeding 3 years or both, unless they prove lack of knowledge and due diligence. Failing to hold an AGM: fine not exceeding RM50,000 or imprisonment not exceeding 3 years or both",
+    "branches": [
+     {
+      "if": "A parcel owner or prospective purchaser applies for a statement of the amounts payable on a parcel",
+      "then": "The JMB issues a certificate in Form 10 within 21 days, for a fee not exceeding RM50",
+      "cites": [
+       "Act s.31",
+       "Reg r.19(1)",
+       "Form 10"
+      ]
+     },
+     {
+      "if": "The JMB hires a property manager who is not a registered property manager",
+      "then": "The manager must lodge a Form 12 bond for 12 months' fees or RM50,000, whichever is higher. The agreement and bond are filed with the Commissioner within 30 days",
+      "cites": [
+       "Reg r.21(2)",
+       "Reg r.21(3)",
+       "Reg r.21(4)",
+       "Form 12"
+      ]
+     },
+     {
+      "if": "A parcel owner defaults on payment",
+      "then": "The JMB serves a s.34 notice, then sues in court or the Tribunal, or applies for attachment",
+      "cites": [
+       "Act s.25(6)",
+       "Act s.34(1)",
+       "Act s.35(1)"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.21(1)",
+     "Act s.21(3)",
+     "Act s.25(3)",
+     "Act s.25(4)",
+     "Act s.25(5)",
+     "Act s.25(6)",
+     "Act s.26(1)",
+     "Act s.26(5)",
+     "Act s.26(6)",
+     "Act s.32(3)",
+     "Act s.32(6)",
+     "Act s.36",
+     "Reg r.34",
+     "Act Second Schedule"
+    ]
+   },
+   {
+    "title": "JMB hands over to MC and dissolves",
+    "actor": "JMB",
+    "detail": "Within one month of the MC's first AGM, the JMB uses Form 7 to transfer the account balances. It also hands over its additional by-laws, accounts, assets and liabilities, the developer's documents and its records. If only unaudited accounts were handed over, the audited accounts follow within 3 months of the MC's first AGM. The JMB dissolves 3 months from the date of the MC's first AGM.",
+    "deadline": "Handover not more than 1 month from the MC's first AGM; audited accounts not more than 3 months from it",
+    "penalty": "Every committee member liable to a fine not exceeding RM250,000 or imprisonment not exceeding 3 years or both, unless they prove lack of knowledge and due diligence",
+    "branches": [
+     {
+      "if": "The JMB does not transfer the balances in time",
+      "then": "The moneys, rights, liabilities and pending proceedings vest in the MC when the 1-month period expires",
+      "cites": [
+       "Act s.28(1)",
+       "Act s.28(2)",
+       "Act s.28(3)"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.27(1)",
+     "Act s.27(2)",
+     "Act s.27(3)",
+     "Act s.27(4)",
+     "Act s.27(5)",
+     "Reg r.15",
+     "Form 7"
+    ]
+   }
+  ],
+  "key_numbers": [
+   {
+    "label": "Deadline to convene first JMB AGM after vacant possession",
+    "value": "12 months",
+    "cite": "Act s.17(1)(b)"
+   },
+   {
+    "label": "Developer's management period ends after JMB establishment",
+    "value": "1 month",
+    "cite": "Act s.7(2)"
+   },
+   {
+    "label": "Notice of first JMB AGM",
+    "value": "not less than 14 days",
+    "cite": "Act s.18(3)"
+   },
+   {
+    "label": "Sinking fund contribution (minimum at JMB stage)",
+    "value": "10% of charges",
+    "cite": "Act s.25(4)"
+   },
+   {
+    "label": "Late-payment interest cap at JMB stage",
+    "value": "10% per annum",
+    "cite": "Act s.25(6)"
+   },
+   {
+    "label": "Deposit collected moneys into accounts (developer)",
+    "value": "within 3 working days",
+    "cite": "Act s.10(3)"
+   },
+   {
+    "label": "JMB registers its name with Commissioner",
+    "value": "within 30 days",
+    "cite": "Act s.20(1)"
+   },
+   {
+    "label": "Maximum JMB maintenance contract period",
+    "value": "12 months",
+    "cite": "Act s.21(3)"
+   },
+   {
+    "label": "JMB handover to MC / JMB dissolves",
+    "value": "1 month / 3 months from MC first AGM",
+    "cite": "Act s.27(2)"
+   },
+   {
+    "label": "Typical maximum fine for developer or JMB failures",
+    "value": "RM250,000 or 3 years or both",
+    "cite": "Act s.18(2)"
+   }
+  ],
+  "memory_hook": "VP → 12 months to AGM → JMB born → developer out 1 month later → MC AGM → hand over in 1, dissolve in 3."
+ },
+ {
+  "slug": "mc-lifecycle",
+  "title": "Management Corporation (MC): preliminary period to first AGM",
+  "summary": "This process covers strata management under Part V of the Act, where vacant possession of a parcel has been delivered and the management corporation (MC) has come into existence under the Strata Titles Act 1985. Where no JMB was established, the developer (including the original proprietor) manages the property and acts as the management committee during the 'preliminary management period'. It then convenes the MC's first AGM once owners other than the developer hold at least one-quarter of the aggregate share units, and hands over control to the elected management committee.",
+  "steps": [
+   {
+    "title": "MC comes into existence; Part V applies",
+    "actor": "Developer (original proprietor)",
+    "detail": "Part V applies once vacant possession of a parcel has been delivered and the MC has come into existence under the Strata Titles Act 1985. The 'initial period' starts on the day the MC comes into existence. It ends when proprietors other than the developer or original proprietor hold at least one-quarter of the aggregate share units. Chapter 2 (developer management) applies only where no JMB was established under s.17(1). In Part V, 'developer' includes the original proprietor of the lot.",
+    "deadline": null,
+    "penalty": null,
+    "branches": [
+     {
+      "if": "The MC comes into existence before the JMB's first AGM is convened",
+      "then": "No first AGM of the JMB is needed and no JMB is established. Part V applies to the development area.",
+      "cites": [
+       "Act s.17(5)"
+      ]
+     },
+     {
+      "if": "A JMB was already established",
+      "then": "The developer-management chapter of Part V does not apply. Instead, the JMB must transfer balances and hand over to the MC within one month of the MC's first AGM, using Form 7, and it dissolves three months from that AGM.",
+      "cites": [
+       "Act s.47",
+       "Act s.27(1)",
+       "Act s.27(2)",
+       "Reg r.15"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.46(1)",
+     "Act s.46(2)",
+     "Act s.47"
+    ]
+   },
+   {
+    "title": "Open maintenance and sinking fund accounts",
+    "actor": "Developer",
+    "detail": "The developer must open a maintenance account in the MC's name with a bank or financial institution. At the same time, it must open a sinking fund account in the MC's name. The maintenance account may be used only for general or regular expenditure listed in s.50(3). The sinking fund may be used only for the capital expenditure listed in s.51(2).",
+    "deadline": "Depends on timing: on the Act's commencement date (VP delivered before commencement); before VP (VP delivered after commencement and after the MC exists); or within 14 days from the MC coming into existence and before charges are collected (VP delivered after commencement, before the MC exists, and no JMB).",
+    "penalty": "Fine up to RM250,000 or imprisonment up to 3 years or both.",
+    "branches": [],
+    "cites": [
+     "Act s.50(1)",
+     "Act s.50(3)",
+     "Act s.51(1)",
+     "Act s.51(2)",
+     "Act s.50(4)",
+     "Act s.51(3)"
+    ]
+   },
+   {
+    "title": "Developer manages during preliminary management period",
+    "actor": "Developer",
+    "detail": "The preliminary management period runs from delivery of vacant possession until one month after the MC's first AGM. During it, the developer must properly maintain and manage the subdivided building or land and the common property. From the time the MC comes into existence, the developer exercises the powers and performs the duties of the management committee. It must also set aside a separate area of common property as an administration office, and prepare and maintain a strata roll in Form 18.",
+    "deadline": "Until one month after the first AGM of the MC",
+    "penalty": "Failing to manage or to provide the administration office: fine up to RM250,000 or imprisonment up to 3 years or both. Failing to keep the strata roll: fine up to RM10,000 or imprisonment up to 3 years or both.",
+    "branches": [
+     {
+      "if": "The developer borrows money, gives securities, or signs a maintenance or management contract extending beyond the preliminary management period",
+      "then": "The developer is liable to the MC or any proprietor for loss as damages for breach of statutory duty. It also commits an offence: fine up to RM250,000 or imprisonment up to 3 years or both.",
+      "cites": [
+       "Act s.49(1)",
+       "Act s.49(2)",
+       "Act s.49(3)"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.46(2)",
+     "Act s.48(1)",
+     "Act s.48(2)",
+     "Act s.48(3)",
+     "Act s.48(4)",
+     "Act s.72(1)",
+     "Act s.72(2)",
+     "Reg r.29"
+    ]
+   },
+   {
+    "title": "Set and collect charges and sinking fund",
+    "actor": "Developer / Proprietors",
+    "detail": "The developer sets the charges in proportion to each parcel's share units. The sinking fund contribution is 10% of the charges. Proprietors pay the MC within 14 days of the developer's notice; unpaid sums carry interest at 10% per annum on a daily basis. 'Proprietor' here includes a purchaser yet to be registered and the developer for unsold parcels. No one may collect charges until both accounts are open in the MC's name and vacant possession has been delivered.",
+    "deadline": "Proprietor pays within 14 days of receiving the notice",
+    "penalty": "Collecting money before the accounts are opened or before vacant possession: fine up to RM250,000. A proprietor who ignores a s.78 demand notice: fine up to RM5,000 or imprisonment up to 3 years or both, plus up to RM50 per day for a continuing offence.",
+    "branches": [
+     {
+      "if": "A proprietor disputes the sums set by the developer",
+      "then": "The proprietor may apply to the Commissioner for a review. The Commissioner may set the sum, or instruct the developer to appoint a registered property manager at the developer's own cost and then set a just and reasonable sum.",
+      "cites": [
+       "Act s.52(6)",
+       "Act s.52(7)"
+      ]
+     },
+     {
+      "if": "A sum is still unpaid after 14 days",
+      "then": "The developer may recover it in the MC's name under s.78. This starts with a Form 20 demand giving not less than two weeks to pay, followed by a court or Tribunal claim, or attachment of movable property under s.79.",
+      "cites": [
+       "Act s.52(4)",
+       "Act s.78(1)",
+       "Act s.78(2)",
+       "Reg r.31"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.52(1)",
+     "Act s.52(2)",
+     "Act s.52(3)",
+     "Act s.52(4)",
+     "Act s.52(5)",
+     "Act s.52(8)",
+     "Act s.53(1)",
+     "Act s.53(3)",
+     "Act s.78(3)"
+    ]
+   },
+   {
+    "title": "Keep, audit and file accounts",
+    "actor": "Developer",
+    "detail": "The developer prepares accounts from the start of the preliminary management period and appoints an approved company auditor to audit them annually. The audit runs either up to the date control is transferred, or, if the accounts go to the first AGM, up to a date not earlier than three months before that meeting. A certified true copy of the audited accounts and the auditor's report must be filed with the Commissioner. The Commissioner has access to the accounts and may appoint an auditor to investigate at the developer's expense.",
+    "deadline": "File within 14 days of the accounts being audited",
+    "penalty": "Fine up to RM250,000 or imprisonment up to 3 years or both.",
+    "branches": [],
+    "cites": [
+     "Act s.54(1)",
+     "Act s.54(2)",
+     "Act s.54(3)",
+     "Act s.54(5)"
+    ]
+   },
+   {
+    "title": "Convene the first AGM of MC",
+    "actor": "Developer",
+    "detail": "Once the initial period ends, the developer must convene the MC's first AGM. Written notice in Form 14 goes to all proprietors and is displayed at a conspicuous part of the development area. The developer must also prepare a 12-month budget, starting on the first day of the month after the AGM. Any proprietor may require a motion to be added to the agenda by written notice given not less than seven days before the meeting.",
+    "deadline": "Within one month after the initial period expires; notice not less than 14 days before the meeting",
+    "penalty": "Fine up to RM250,000 or imprisonment up to 3 years or both.",
+    "branches": [
+     {
+      "if": "The developer fails to convene the first AGM in time",
+      "then": "On application by a proprietor, the Commissioner may appoint a person to convene the meeting within a time the Commissioner specifies. The developer pays all the expenses.",
+      "cites": [
+       "Act s.57(5)"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.57(1)",
+     "Act s.57(2)",
+     "Act s.57(3)",
+     "Act s.57(4)",
+     "Reg r.23(1)",
+     "Reg r.23(2)",
+     "Form 14",
+     "Act Second Schedule"
+    ]
+   },
+   {
+    "title": "Hold first AGM and elect committee",
+    "actor": "Proprietors",
+    "detail": "The agenda must cover: the size of the management committee and its election; the developer's budget; confirming or varying the charges and sinking fund contribution; the late-payment interest rate; the audited accounts; confirming, varying or extending the developer's insurances; and additional by-laws. Quorum is one half of the proprietors entitled to vote, present in person or by proxy. A proprietor in arrears on the seventh day before the meeting cannot vote. The committee has 3 to 14 natural persons and must elect a chairman, secretary and treasurer immediately after the meeting.",
+    "deadline": null,
+    "penalty": null,
+    "branches": [
+     {
+      "if": "The MC has not more than three proprietors",
+      "then": "No election is held. The committee consists of all the proprietors (or a body proprietor's nominee).",
+      "cites": [
+       "Act s.58",
+       "Act Second Schedule"
+      ]
+     },
+     {
+      "if": "No quorum within half an hour of the appointed time",
+      "then": "The proprietors entitled to vote who are present form the quorum.",
+      "cites": [
+       "Act Second Schedule"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.58",
+     "Act s.56(1)",
+     "Act s.56(2)",
+     "Act Second Schedule"
+    ]
+   },
+   {
+    "title": "Issue post-AGM notices and filings",
+    "actor": "Management corporation / Management committee",
+    "detail": "Where the meeting confirmed or varied the charges, the MC sends Form 15 to all proprietors, including proprietors of any provisional block. The notice states the charges, the sinking fund contribution and the late-payment interest rate, and is displayed on the notice board. The committee must file certified copies of the audited accounts and auditor's report, the resolutions and the minutes with the Commissioner. It must also send the minutes to proprietors or display them.",
+    "deadline": "Within 28 days after the general meeting",
+    "penalty": null,
+    "branches": [],
+    "cites": [
+     "Reg r.24",
+     "Form 15",
+     "Act Second Schedule"
+    ]
+   },
+   {
+    "title": "Hand over control to management committee",
+    "actor": "Developer",
+    "detail": "Using Form 13, the developer transfers control of all balances in the maintenance and sinking fund accounts to the management committee. It also hands over the administration office, the audited accounts (or unaudited accounts if no audit is done yet), all assets, and all records. It must deliver copies of the approved plans, documents showing the actual location of services, maintenance contracts, the schedule of parcels or certified strata plan, contractor and supplier details, and warranties and manuals.",
+    "deadline": "Not later than the expiry of the preliminary management period (one month after the first AGM)",
+    "penalty": "Fine up to RM250,000 or imprisonment up to 3 years or both, plus up to RM5,000 per day for a continuing offence.",
+    "branches": [
+     {
+      "if": "Only unaudited accounts were handed over",
+      "then": "The developer must hand over audited accounts, up to the date control was transferred, not later than three months after the preliminary management period expires.",
+      "cites": [
+       "Act s.55(2)"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.55(1)",
+     "Act s.55(3)",
+     "Act s.55(4)",
+     "Reg r.22",
+     "Form 13"
+    ]
+   },
+   {
+    "title": "MC runs property and accounts",
+    "actor": "Management corporation",
+    "detail": "The MC now maintains and manages the property, sets and imposes charges, effects insurance, keeps the strata roll and enforces the by-laws. At a general meeting it sets charges by share units and late-payment interest, which must not exceed 10% per annum. The sinking fund contribution is 10% of the charges unless a general meeting decides otherwise, and it can never be less than 10%. The MC must keep accounts, have them audited annually by an approved company auditor, and file them with the Commissioner.",
+    "deadline": "File audited accounts within 14 days of the accounts being audited",
+    "penalty": "If the MC fails its account duties, every committee member commits an offence: fine up to RM250,000 or imprisonment up to 3 years or both. A member has a defence if the offence happened without their knowledge and they exercised due diligence.",
+    "branches": [],
+    "cites": [
+     "Act s.59(1)",
+     "Act s.59(2)",
+     "Act s.60(3)",
+     "Act s.61(3)",
+     "Act s.62(1)",
+     "Act s.62(5)",
+     "Act s.62(6)"
+    ]
+   }
+  ],
+  "key_numbers": [
+   {
+    "label": "Initial period ends when non-developer proprietors hold at least",
+    "value": "one-quarter of aggregate share units",
+    "cite": "Act s.46(2)"
+   },
+   {
+    "label": "Deadline for developer to convene first MC AGM",
+    "value": "within one month after the initial period expires",
+    "cite": "Act s.57(1)"
+   },
+   {
+    "label": "Notice of first MC AGM",
+    "value": "not less than 14 days",
+    "cite": "Act s.57(3)"
+   },
+   {
+    "label": "Preliminary management period ends",
+    "value": "one month after the first AGM of the MC",
+    "cite": "Act s.46(2)"
+   },
+   {
+    "label": "Opening accounts where VP came before the MC existed and there is no JMB",
+    "value": "within 14 days from the MC coming into existence",
+    "cite": "Act s.50(1)"
+   },
+   {
+    "label": "Sinking fund contribution during preliminary period",
+    "value": "10% of charges",
+    "cite": "Act s.52(3)"
+   },
+   {
+    "label": "Late-payment interest during preliminary period",
+    "value": "10% per annum, daily basis (after 14 days)",
+    "cite": "Act s.52(5)"
+   },
+   {
+    "label": "Audited accounts after unaudited handover",
+    "value": "not later than 3 months after the preliminary period expires",
+    "cite": "Act s.55(2)"
+   },
+   {
+    "label": "Form 15 notice of confirmed charges and interest",
+    "value": "within 28 days after the general meeting",
+    "cite": "Reg r.24"
+   },
+   {
+    "label": "Penalty for failing to hand over",
+    "value": "RM250,000 or 3 years or both; plus RM5,000 per day if continuing",
+    "cite": "Act s.55(4)"
+   }
+  ],
+  "memory_hook": "Quarter sold, one month to meet, one more month to hand over the keys (Form 13)."
+ },
+ {
+  "slug": "subsidiary-mc",
+  "title": "Subsidiary MC and limited common property",
+  "summary": "A subsidiary management corporation (SMC) runs limited common property (LCP). LCP is part of the common property set aside for the exclusive benefit of the proprietors of two or more, but not all, parcels. This process applies only at the management corporation (MC) stage, after the LCP has been designated by comprehensive resolution and the SMC has been constituted under the Strata Titles Act 1985. The SMC then works like a 'mini-MC' for the LCP only, with its own committee, accounts, charges, by-laws and first AGM.",
+  "steps": [
+   {
+    "title": "LCP designated and SMC constituted",
+    "actor": "Management corporation / proprietors",
+    "detail": "The LCP is designated by a comprehensive resolution of the MC. That resolution needs at least 30 days' notice. On a poll taken at the end of 60 days after the meeting, it needs votes from at least two-thirds of the aggregate share units. The Director must also certify that the SMC has been constituted under the Strata Titles Act 1985. The SMC comprises all proprietors of the parcels for whose exclusive benefit the LCP is designated.",
+    "deadline": null,
+    "penalty": null,
+    "branches": [],
+    "cites": [
+     "Act s.2",
+     "Act s.63(2)"
+    ]
+   },
+   {
+    "title": "MC convenes SMC first AGM",
+    "actor": "Management corporation",
+    "detail": "The MC must convene the SMC's first AGM within one month after the SMC is established. The MC gives notice in Form 16 to all SMC proprietors and displays a copy on the MC notice board. Any SMC proprietor may require a motion to be added to the agenda by written notice given at least 7 days before the meeting, and the motion must then be notified to all SMC proprietors and displayed.",
+    "deadline": "Within one month after the SMC is established; motions not less than 7 days before the meeting",
+    "penalty": "Fine up to RM50,000 or imprisonment up to 3 years or both",
+    "branches": [
+     {
+      "if": "The MC fails to convene the first AGM within one month",
+      "then": "On application by any SMC proprietor, the Commissioner may appoint any person to convene the meeting, and the MC pays all expenses.",
+      "cites": [
+       "Reg r.25(2)"
+      ]
+     }
+    ],
+    "cites": [
+     "Reg r.25(1)",
+     "Reg r.25(3)",
+     "Reg r.26(1)",
+     "Reg r.26(2)",
+     "Form 16"
+    ]
+   },
+   {
+    "title": "Hold first AGM and elect committee",
+    "actor": "SMC proprietors",
+    "detail": "The Form 16 agenda covers: electing the subsidiary management committee (where there are more than 3 proprietors), nominating a member to the MC committee, fixing charges, sinking fund and late-payment interest, insurance, additional by-laws and appointing an auditor. At least one subsidiary committee member must sit on the MC's management committee. The Second Schedule applies with modifications, so the committee has 3 to 14 members, or all proprietors where there are not more than 3.",
+    "deadline": null,
+    "penalty": null,
+    "branches": [
+     {
+      "if": "The SMC has not more than 3 proprietors",
+      "then": "The committee consists of all the proprietors who are natural persons, or the nominee of a corporate proprietor.",
+      "cites": [
+       "Act Second Schedule"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.63(1)",
+     "Act s.63(3)",
+     "Act s.63(4)",
+     "Act s.63(5)",
+     "Form 16",
+     "Act Second Schedule"
+    ]
+   },
+   {
+    "title": "Open SMC maintenance and sinking fund accounts",
+    "actor": "Subsidiary management corporation",
+    "detail": "The SMC opens its own maintenance account and sinking fund account with a bank or financial institution for the common expenses of its LCP. The maintenance account may be used only for the purposes in s.50(3). The sinking fund account may be used only for the purposes in s.51(2). Moneys above RM5,000 that are not needed for immediate use must go into an income-bearing deposit account.",
+    "deadline": null,
+    "penalty": null,
+    "branches": [],
+    "cites": [
+     "Act s.64(3)",
+     "Act s.66(1)",
+     "Act s.66(2)",
+     "Act s.67(1)",
+     "Act s.67(2)",
+     "Act s.80"
+    ]
+   },
+   {
+    "title": "Fix charges and notify proprietors",
+    "actor": "Subsidiary management corporation",
+    "detail": "Charges are set in proportion to each parcel's share units. The sinking fund contribution is 10% of the charges unless the SMC sets it differently at a general meeting, but it can never be less than 10%. Each parcel's share of LCP expenses is (A × C) ÷ B, where A is the parcel's share units, B is the aggregate share units of all LCP parcels, and C is the total contribution set by the SMC. After each general meeting that confirms or varies charges, the SMC sends Form 17 to all SMC proprietors and displays a copy on its notice board.",
+    "deadline": "Form 17 within 28 days after each general meeting at which charges are confirmed or varied",
+    "penalty": null,
+    "branches": [],
+    "cites": [
+     "Act s.65",
+     "Act s.68(1)",
+     "Act s.68(2)",
+     "Act s.68(3)",
+     "Reg r.27",
+     "Form 17"
+    ]
+   },
+   {
+    "title": "Collect and recover unpaid sums",
+    "actor": "SMC / defaulting proprietor",
+    "detail": "Charges and sinking fund contributions are due on the passing of the SMC resolution. They can be recovered from the proprietor or his successor-in-title. Recovery steps, in order: (1) serve a written demand in Form 20 giving at least two weeks to pay; (2) if still unpaid, file a claim in court or the Tribunal, or instead apply for attachment of movable property; (3) a sworn application in Form 21 is made by a subsidiary committee member to the Commissioner for a warrant of attachment.",
+    "deadline": "Demand period not less than two weeks from service",
+    "penalty": "Failing to comply with the demand without reasonable excuse: fine up to RM5,000 or imprisonment up to 3 years or both, plus up to RM50 per day for a continuing offence",
+    "branches": [
+     {
+      "if": "The sum is still unpaid after the demand period",
+      "then": "The SMC may file a claim in court or the Tribunal, or use attachment of movable property under s.79 instead.",
+      "cites": [
+       "Act s.78(2)",
+       "Act s.79(1)"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.68(4)",
+     "Act s.78(1)",
+     "Act s.78(3)",
+     "Reg r.31",
+     "Form 20",
+     "Reg r.35(1)"
+    ]
+   },
+   {
+    "title": "Manage LCP and make by-laws",
+    "actor": "Subsidiary management corporation",
+    "detail": "The SMC has the same powers and duties as the MC, but only for matters that relate solely to the LCP. The MC keeps control of all other common property. The SMC cannot contract or sue in the MC's name, and the MC is not liable for the SMC's contracts, debts or legal costs. The MC's by-laws apply to the LCP unless the SMC amends them by special resolution. Any additional SMC by-laws must be filed with the Commissioner, and the SMC or any of its proprietors may enforce them at the Tribunal or in court.",
+    "deadline": "File additional by-laws with the Commissioner within 30 days of the special resolution",
+    "penalty": null,
+    "branches": [
+     {
+      "if": "The SMC agrees terms with the MC or with another SMC",
+      "then": "The SMC may also manage common property, or another SMC's LCP, within the same development area.",
+      "cites": [
+       "Act s.64(7)"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.64(1)",
+     "Act s.64(2)",
+     "Act s.64(4)",
+     "Act s.71(1)",
+     "Act s.71(2)",
+     "Act s.71(4)",
+     "Act s.71(5)"
+    ]
+   },
+   {
+    "title": "Arrange insurance for LCP area",
+    "actor": "MC and SMC",
+    "detail": "The SMC may insure only against risks the MC has not insured, or for amounts above what the MC has insured. The SMC has the same insurable interest in its LCP as the MC has in the common property. Who insures the building depends on whether the SMC's area can be separated from the main building.",
+    "deadline": null,
+    "penalty": null,
+    "branches": [
+     {
+      "if": "The SMC area cannot be separated from the main premises of the building",
+      "then": "The MC insures the building under a damage policy, and the premiums are apportioned between the SMC and the MC according to share units.",
+      "cites": [
+       "Act s.95(1)"
+      ]
+     },
+     {
+      "if": "The SMC area can be separated (it exists as an independent structure)",
+      "then": "The MC insures its part of the building and the SMC insures its own part.",
+      "cites": [
+       "Act s.96(1)"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.64(5)",
+     "Act s.64(6)",
+     "Act s.95(1)",
+     "Act s.96(1)"
+    ]
+   },
+   {
+    "title": "Keep accounts and hold annual AGMs",
+    "actor": "Subsidiary management committee",
+    "detail": "Chapter 3 of Part V applies to the SMC with necessary modifications. This means the accounts must be audited annually by an approved company auditor and a certified copy filed with the Commissioner. AGMs must be held once each year, with not more than 15 months between one AGM and the next.",
+    "deadline": "Audited accounts filed within 14 days of audit; not more than 15 months between AGMs",
+    "penalty": "Accounts failure: every committee member liable to a fine up to RM250,000 or imprisonment up to 3 years or both. Failure to hold an AGM: fine up to RM50,000 or imprisonment up to 3 years or both",
+    "branches": [],
+    "cites": [
+     "Act s.64(1)",
+     "Act s.62(1)",
+     "Act s.62(5)",
+     "Reg r.34(1)",
+     "Reg r.34(2)",
+     "Act Second Schedule"
+    ]
+   },
+   {
+    "title": "Share judgments and SMC debts",
+    "actor": "SMC proprietors",
+    "detail": "A judgment against the MC that relates solely to the SMC's parcels binds only those proprietors. Each proprietor's share is worked out using the s.65 formula, and liability is limited to that share. Money lawfully incurred by the SMC is guaranteed by its proprietors in proportion to share units, and the SMC can recover any unpaid share in court or the Tribunal.",
+    "deadline": null,
+    "penalty": null,
+    "branches": [],
+    "cites": [
+     "Act s.69(1)",
+     "Act s.69(2)",
+     "Act s.77(1)",
+     "Act s.77(2)",
+     "Act s.77(3)"
+    ]
+   }
+  ],
+  "key_numbers": [
+   {
+    "label": "Comprehensive resolution threshold (designating LCP)",
+    "value": "2/3 of aggregate share units, counted 60 days after the meeting; 30 days' notice",
+    "cite": "Act s.2"
+   },
+   {
+    "label": "MC must convene the SMC first AGM",
+    "value": "Within 1 month of SMC establishment",
+    "cite": "Reg r.25(1)"
+   },
+   {
+    "label": "Penalty for failing to convene the first AGM",
+    "value": "Up to RM50,000 or 3 years or both",
+    "cite": "Reg r.25(3)"
+   },
+   {
+    "label": "Deadline for proprietor to request a motion",
+    "value": "Not less than 7 days before the meeting",
+    "cite": "Reg r.26(2)"
+   },
+   {
+    "label": "SMC committee members who must also sit on the MC committee",
+    "value": "At least one",
+    "cite": "Act s.63(4)"
+   },
+   {
+    "label": "Minimum sinking fund contribution",
+    "value": "10% of charges",
+    "cite": "Act s.68(3)"
+   },
+   {
+    "label": "Form 17 charges notice",
+    "value": "Within 28 days after the general meeting",
+    "cite": "Reg r.27"
+   },
+   {
+    "label": "Filing additional SMC by-laws with the Commissioner",
+    "value": "Within 30 days of the special resolution",
+    "cite": "Act s.71(4)"
+   },
+   {
+    "label": "Minimum demand period before recovery action",
+    "value": "Not less than 2 weeks",
+    "cite": "Act s.78(1)"
+   },
+   {
+    "label": "Threshold for income-bearing deposit",
+    "value": "Moneys above RM5,000 not needed for immediate use",
+    "cite": "Act s.80"
+   }
+  ],
+  "memory_hook": "LCP = 'mini-MC': MC calls its first AGM within 1 month (Form 16), one seat on the MC committee, own two accounts, share-unit charges plus at least 10% sinking fund (Form 17 within 28 days), by-laws filed within 30 days, insure only what the MC doesn't."
+ },
+ {
+  "slug": "unpaid-charges",
+  "title": "Recovering unpaid charges",
+  "summary": "This process covers what happens when a purchaser, parcel owner or proprietor fails to pay charges or sinking fund contributions. The steps are interest, by-law sanctions, a written demand, then either a court or Tribunal claim or attachment and auction of movable property. It applies at the developer/JMB stage (Part IV: Act ss.12, 25, 33-35, Form 11) and at the MC/subsidiary MC stage (Part V: Act ss.52, 60, 61, 68, 77-79, Form 20), with the procedure in Regs 20, 31 and 35-42. The Act applies only to Peninsular Malaysia and Labuan.",
+  "steps": [
+   {
+    "title": "Charges determined and owners notified",
+    "actor": "JMB / MC / Subsidiary MC (Developer during its management period)",
+    "detail": "Charges are set in proportion to allocated share units (JMB) or share units (MC). The sinking fund contribution is 10% of the charges, or more if a general meeting decides, but never less than 10%. At the MC stage, charges and contributions become due and payable when the resolution imposing them is passed. Within 28 days after a general meeting that confirms or varies charges, the body must send a notice (Form 5A for a JMB, Form 15 for an MC, Form 17 for a subsidiary MC) and display a copy on the notice board.",
+    "deadline": "Notice within 28 days after the general meeting",
+    "penalty": null,
+    "branches": [
+     {
+      "if": "Developer stage (before JMB) or MC preliminary management period",
+      "then": "The developer determines charges in proportion to share units. Sinking fund is fixed at 10% of charges. A dissatisfied purchaser or proprietor may apply to the Commissioner for a review.",
+      "cites": [
+       "Act s.12(3)",
+       "Act s.12(4)",
+       "Act s.12(7)",
+       "Act s.52(2)",
+       "Act s.52(3)",
+       "Act s.52(6)"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.25(3)",
+     "Act s.25(4)",
+     "Act s.60(3)",
+     "Act s.60(4)",
+     "Act s.61(3)",
+     "Act s.61(4)",
+     "Act s.68(4)",
+     "Reg r.13",
+     "Reg r.24",
+     "Reg r.27",
+     "Form 5A",
+     "Form 15",
+     "Form 17"
+    ]
+   },
+   {
+    "title": "Owner fails to pay within 14 days",
+    "actor": "Purchaser / Parcel owner / Proprietor",
+    "detail": "The owner must pay within 14 days of receiving a notice. Any sum still unpaid after the 14 days attracts interest. At the JMB stage the rate is set at the first AGM and must not exceed 10% per annum. At the MC stage the rate is set at a general meeting and must not exceed 10% per annum. The by-laws provide for 10% per annum on a daily basis, or the rate fixed by the general meeting, until actual payment.",
+    "deadline": "14 days of receiving notice",
+    "penalty": "Interest on the unpaid sum (capped at 10% per annum)",
+    "branches": [
+     {
+      "if": "Developer stage or MC preliminary management period",
+      "then": "Interest is fixed by the Act at 10% per annum on a daily basis.",
+      "cites": [
+       "Act s.12(6)",
+       "Act s.52(5)"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.25(5)",
+     "Act s.25(6)",
+     "Act s.19(1)(d)",
+     "Act s.60(3)(c)",
+     "Act s.12(5)",
+     "Act s.52(4)",
+     "By-law 6"
+    ]
+   },
+   {
+    "title": "Defaulter sanctions under by-laws and meeting rules",
+    "actor": "JMB / MC",
+    "detail": "An owner who has not paid after 14 days is a 'defaulter'. The body may then:\n- display a defaulters' list on the notice boards, updated monthly;\n- deactivate the defaulter's access card or tag without prior notice, with a reactivation charge of not more than RM50;\n- suspend the defaulter's use of common facilities, including a designated car park bay;\n- agree a written instalment scheme;\n- accept payment from the defaulter's tenant, occupier or chargee.\nIf the owner is in arrears on the 7th day before a meeting, the owner cannot vote and cannot stand for election to the committee.",
+    "deadline": null,
+    "penalty": "Loss of voting rights and committee eligibility. A committee member who defaults for a continuous period of 3 months vacates office.",
+    "branches": [],
+    "cites": [
+     "By-law 6",
+     "Act Second Schedule",
+     "Act s.22(2)"
+    ]
+   },
+   {
+    "title": "Serve written demand for payment",
+    "actor": "Developer / JMB (Form 11); MC / Subsidiary MC (Form 20)",
+    "detail": "The body may serve a written notice demanding payment within a period stated in the notice. The minimum period is 14 days from service at the developer/JMB stage, and two weeks from service at the MC stage. The same notice can also cover sums guaranteed by owners under the proportional guarantee of the body's debts.",
+    "deadline": "Payment period of not less than 14 days (s.34) or two weeks (s.78) from service",
+    "penalty": "If the owner fails to comply without reasonable excuse, it is an offence: a fine of up to RM5,000, or imprisonment of up to 3 years, or both. For a continuing offence, a further fine of up to RM50 for every day after conviction.",
+    "branches": [],
+    "cites": [
+     "Act s.34(1)",
+     "Act s.34(3)",
+     "Act s.78(1)",
+     "Act s.78(3)",
+     "Act s.33",
+     "Act s.77",
+     "Reg r.20",
+     "Reg r.31",
+     "Form 11",
+     "Form 20",
+     "Act s.144"
+    ]
+   },
+   {
+    "title": "Choose recovery route: claim or attachment",
+    "actor": "Developer / JMB / MC / Subsidiary MC",
+    "detail": "If the sum is still unpaid when the demand period ends, the body may file a summons or claim in a court of competent jurisdiction or in the Strata Management Tribunal. As an alternative, it may recover the sum by attaching the owner's movable property.",
+    "deadline": "After the demand period expires",
+    "penalty": null,
+    "branches": [
+     {
+      "if": "Claim filed with the Tribunal",
+      "then": "The Tribunal can hear claims for recovery of charges or sinking fund contributions up to RM250,000. The Limitation Act 1953 does not apply. The Tribunal may order interest of up to 8% per annum. An award is enforceable as a court order, and failing to comply with it is an offence.",
+      "cites": [
+       "Act s.105(1)",
+       "Act s.105(2)",
+       "Act Fourth Schedule",
+       "Act s.120(1)",
+       "Act s.123"
+      ]
+     },
+     {
+      "if": "Attachment chosen instead",
+      "then": "Go to the sworn application for a warrant of attachment.",
+      "cites": [
+       "Act s.35(1)",
+       "Act s.79(1)"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.34(2)",
+     "Act s.78(2)",
+     "Act s.33(3)",
+     "Act s.77(3)"
+    ]
+   },
+   {
+    "title": "Apply for warrant of attachment",
+    "actor": "Developer / JMC or MC or subsidiary committee member / Commissioner-appointed managing agent; Commissioner",
+    "detail": "The applicant submits a sworn application in Form 21 to the Commissioner, in four copies, with a fee of RM20. If the Commissioner decides to issue a warrant in Form A, he delivers two signed copies to the applicant. The warrant names the person who will execute it and authorises attachment of the defaulter's movable property in the building or elsewhere in the State.",
+    "deadline": null,
+    "penalty": null,
+    "branches": [],
+    "cites": [
+     "Act s.35(1)",
+     "Act s.79(1)",
+     "Reg r.35(1)",
+     "Reg r.35(2)",
+     "Reg r.35(3)",
+     "Form 21",
+     "Act Third Schedule",
+     "Reg First Schedule"
+    ]
+   },
+   {
+    "title": "Execute warrant and serve inventory",
+    "actor": "Developer / committee member / specially employed person, with Commissioner or officer present",
+    "detail": "The warrant is executed in the presence of the Commissioner or an officer from his office. The executor may force entry, in the daytime only. If there are difficulties, the Commissioner may ask for help from a police officer not below the rank of inspector. Immediately after attachment, the executor makes an inventory and serves a Form B notice on the person in possession. If no one is in possession, the notice is placed in a conspicuous part of the place of attachment. Attached property is kept at the premises or elsewhere in the State.",
+    "deadline": "Inventory and Form B immediately after attachment",
+    "penalty": null,
+    "branches": [],
+    "cites": [
+     "Act s.35(2)",
+     "Act s.35(3)",
+     "Act s.35(4)",
+     "Act s.79(2)",
+     "Act s.79(3)",
+     "Act s.79(4)",
+     "Reg r.36",
+     "Act Third Schedule"
+    ]
+   },
+   {
+    "title": "14-day window: pay, dispute, or tenant pays",
+    "actor": "Defaulter / Tenant / Occupier / Magistrate's Court",
+    "detail": "If the sum due plus the costs incurred so far are paid, the attachment ends at once and any auction fixed is cancelled. A tenant, subtenant or occupier who pays to avoid the attachment or sale may deduct the amount from rent, unless a written agreement says otherwise. The body's receipt counts as a full discharge for the same amount of rent.",
+    "deadline": "14 days from the date of attachment",
+    "penalty": null,
+    "branches": [
+     {
+      "if": "The person whose property is attached disputes the legality of the attachment",
+      "then": "He may apply to the Magistrate's Court within 14 days for release of the property. The property is held until the court decides. Even if the court refuses release within the 14 days, no sale may take place before the 14-day period ends.",
+      "cites": [
+       "Act s.35(7)",
+       "Act s.35(9)",
+       "Act s.79(7)",
+       "Act s.79(9)"
+      ]
+     },
+     {
+      "if": "The property is perishable",
+      "then": "It may be sold at once. The proceeds are held pending any Magistrate's Court decision.",
+      "cites": [
+       "Act s.35(10)",
+       "Act s.79(10)"
+      ]
+     }
+    ],
+    "cites": [
+     "Reg r.42",
+     "Act s.35(5)",
+     "Act s.35(6)",
+     "Act s.79(5)",
+     "Act s.79(6)"
+    ]
+   },
+   {
+    "title": "Sell attached property by public auction",
+    "actor": "Developer / JMB / MC (under Commissioner's supervision)",
+    "detail": "If the sum is not paid within 14 days of attachment, enough of the property to realise the sum is sold by auction under the Commissioner's supervision. A licensed auctioneer may be appointed. The seller must:\n- fix a reserve price and accept only bids at or above it;\n- give at least 7 days' public notice stating the date, the property and the reserve price (the Commissioner may approve a shorter period in writing);\n- hold the auction in a place open to the public.\nThe highest bidder is declared the purchaser, gets a receipt and becomes the absolute owner. Private treaty sale needs the proprietor's consent. The Commissioner need not attend.",
+    "deadline": "Sale after 14 days from attachment; at least 7 days' public notice",
+    "penalty": null,
+    "branches": [
+     {
+      "if": "No bid, or no bid reaching the reserve price",
+      "then": "The property is withdrawn. The Commissioner may direct a re-auction (at the same or a new reserve price) or return of the property. If the re-auction also fails, the property is returned to the person in possession.",
+      "cites": [
+       "Reg r.39(5)",
+       "Reg r.39(6)"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.35(8)",
+     "Act s.79(8)",
+     "Reg r.37",
+     "Reg r.38",
+     "Reg r.39"
+    ]
+   },
+   {
+    "title": "Apply proceeds and serve statement of sale",
+    "actor": "Person/body conducting auction; Defaulter",
+    "detail": "Proceeds go first to the sum due plus the costs of attachment and sale. These costs include the RM20 filing fee, any livestock maintenance, auctioneer, advertising, watchman and custody costs, and an administrative charge of RM300 or 3% of the amount due, whichever is higher. Within 7 days after the sale, Form 22 is served by registered post. The defaulter must:\n- collect any surplus within 30 days, or it becomes an advance payment towards charges and the sinking fund;\n- collect any unsold items within 7 days, or pay storage charges;\n- pay any shortfall immediately.",
+    "deadline": "Form 22 within 7 days after the sale; surplus claimed within 30 days; unsold items collected within 7 days",
+    "penalty": "Shortfall payable immediately. Storage charges if unsold items are not collected.",
+    "branches": [],
+    "cites": [
+     "Act s.35(11)",
+     "Act s.35(12)",
+     "Act s.79(11)",
+     "Act s.79(12)",
+     "Reg r.40",
+     "Reg r.41",
+     "Form 22"
+    ]
+   }
+  ],
+  "key_numbers": [
+   {
+    "label": "Time to pay after notice before sum is unpaid",
+    "value": "14 days",
+    "cite": "Act s.25(5)"
+   },
+   {
+    "label": "Maximum late-payment interest (JMB / MC)",
+    "value": "10% per annum",
+    "cite": "Act s.60(3)(c)"
+   },
+   {
+    "label": "Minimum payment period in written demand (JMB stage / MC stage)",
+    "value": "14 days / two weeks",
+    "cite": "Act s.78(1)"
+   },
+   {
+    "label": "Offence for ignoring demand",
+    "value": "Fine up to RM5,000 or up to 3 years' jail or both; up to RM50/day continuing",
+    "cite": "Act s.78(3)"
+   },
+   {
+    "label": "Fee for sworn application for warrant of attachment (Form 21)",
+    "value": "RM20",
+    "cite": "Reg First Schedule"
+   },
+   {
+    "label": "Window to pay or dispute in Magistrate's Court before sale",
+    "value": "14 days from attachment",
+    "cite": "Act s.79(7)"
+   },
+   {
+    "label": "Minimum public notice of auction",
+    "value": "7 days",
+    "cite": "Reg r.38(1)"
+   },
+   {
+    "label": "Administrative charge for attachment",
+    "value": "RM300 or 3% of amount due, whichever is higher",
+    "cite": "Reg r.41"
+   },
+   {
+    "label": "Time to collect auction surplus",
+    "value": "30 days after auction",
+    "cite": "Reg r.40"
+   },
+   {
+    "label": "Tribunal monetary limit for claims",
+    "value": "RM250,000",
+    "cite": "Act s.105(1)"
+   }
+  ],
+  "memory_hook": "14 to pay, 10% a year, demand 14 more, then sue or seize; 14 to dispute, 7 to advertise, sell, 7 to state."
+ },
+ {
+  "slug": "inter-floor-leakage",
+  "title": "Inter-floor leakage and party-wall damage",
+  "summary": "Regs 55-67 set out the process when a parcel suffers inter-floor leakage, meaning dampness, moisture or water penetration on its ceiling or ceiling finishes, or damage to a party wall. The affected owner notifies the managing body. That body must inspect, find the cause, issue a Form 28 certificate naming who must repair, and make sure the repair is done. Anyone dissatisfied with a decision can refer it to the Commissioner. The process applies at every stage: developer, JMB, MC, subsidiary MC, or a managing agent appointed by the Commissioner.",
+  "steps": [
+   {
+    "title": "Identify inter-floor leakage or party-wall damage",
+    "actor": "Purchaser / Parcel owner / Proprietor",
+    "detail": "Inter-floor leakage is any evidence of dampness, moisture or water penetration on the ceiling of a parcel, common property or limited common property, or on plaster, panel or gypsum board attached to that ceiling. A parcel includes an accessory parcel used with it. A party wall is a wall between separate parcels, or between a parcel and common property or limited common property. Damage to a party wall includes dampness, moisture, water penetration or other damage to that wall or its finishes.",
+    "deadline": null,
+    "penalty": null,
+    "branches": [
+     {
+      "if": "The damage is to a party wall rather than a ceiling",
+      "then": "Regs 55 to 64 apply mutatis mutandis, so the same notice, inspection, certificate, repair and appeal steps are followed.",
+      "cites": [
+       "Reg r.65",
+       "Reg r.66",
+       "Reg r.67"
+      ]
+     }
+    ],
+    "cites": [
+     "Reg r.55(1)",
+     "Reg r.55(2)",
+     "Reg r.65",
+     "Reg r.66"
+    ]
+   },
+   {
+    "title": "Give notice to the managing body",
+    "actor": "Purchaser / Parcel owner / Proprietor",
+    "detail": "The affected owner may give notice to whoever is managing at the time. That is the developer (during the developer's management period or the preliminary management period), the JMB, the MC or the subsidiary MC.",
+    "deadline": null,
+    "penalty": null,
+    "branches": [
+     {
+      "if": "A managing agent has been appointed by the Commissioner under s.86(1) or s.91(3)",
+      "then": "A copy of the notice given to the managing agent is deemed to be notice to the developer, JMB, MC or subsidiary MC. A copy of the notice must also be extended to the Commissioner.",
+      "cites": [
+       "Reg r.56(2)"
+      ]
+     }
+    ],
+    "cites": [
+     "Reg r.56(1)"
+    ]
+   },
+   {
+    "title": "Inspect affected and other parcels",
+    "actor": "Developer / JMB / MC / Subsidiary MC / Managing agent",
+    "detail": "As soon as practically possible, or within 7 days of receiving the notice, the managing body must inspect the affected parcel, any other parcel, and the common property or limited common property. The purpose is to find the cause and the party responsible for rectifying the defect. The inspector is entitled to access on 7 days' written notice. Under the by-laws, a proprietor must also allow entry at reasonable times on reasonable notice to investigate leakages.",
+    "deadline": "As soon as practically possible, or within 7 days from receipt of the notice; access on 7 days' written notice",
+    "penalty": "A purchaser, parcel owner, proprietor or occupier who fails to give access commits an offence: fine not exceeding fifty thousand (as written) or imprisonment not exceeding 3 years or both.",
+    "branches": [
+     {
+      "if": "Emergency, including any circumstance that materially increases the likelihood of flood or danger to life or property from the leakage",
+      "then": "The 7-day notice requirement does not apply and forcible entry may be effected. Under the by-laws, no notice is required in an emergency.",
+      "cites": [
+       "Reg r.63(3)",
+       "Reg r.63(4)",
+       "By-law 8"
+      ]
+     }
+    ],
+    "cites": [
+     "Reg r.57",
+     "Reg r.63(1)",
+     "Reg r.63(2)",
+     "By-law 8"
+    ]
+   },
+   {
+    "title": "Determine the cause and responsible party",
+    "actor": "Developer / JMB / MC / Subsidiary MC / Managing agent",
+    "detail": "Four matters must be considered: (1) The statutory presumption that the defect is in the parcel or common property immediately above, unless proved otherwise. (2) Defects in a meter, pipe or duct serving more than one parcel are defects of the common property or limited common property. (3) Defects in a meter, pipe or duct serving only one parcel are defects of that parcel, even if it sits in common property or in the void space above a ceiling, wall or floor. (4) Defects within the defect liability period caused by defective workmanship or materials, or by non-compliance with the approved plans, are the developer's responsibility.",
+    "deadline": null,
+    "penalty": null,
+    "branches": [],
+    "cites": [
+     "Reg r.58",
+     "Act s.142"
+    ]
+   },
+   {
+    "title": "Issue certificate of inspection (Form 28)",
+    "actor": "Developer / JMB / MC / Subsidiary MC / Managing agent",
+    "detail": "The managing body issues a certificate of inspection in Form 28. It states the cause of the leakage or party-wall damage and the party responsible for rectifying it. It is addressed to the affected owner and to the responsible party.",
+    "deadline": "Within 5 days from completion of inspection, or such extended time as the Commissioner may grant",
+    "penalty": null,
+    "branches": [],
+    "cites": [
+     "Reg r.59",
+     "Form 28"
+    ]
+   },
+   {
+    "title": "Responsible party rectifies the defect",
+    "actor": "Responsible parcel owner / Managing body / Developer",
+    "detail": "Who repairs depends on the cause and on whether the defect liability period is still running. Whoever repairs keeps the right to seek indemnity from any other party.",
+    "deadline": "7 days (see branches for the start date of each)",
+    "penalty": null,
+    "branches": [
+     {
+      "if": "Caused by or attributable to a parcel",
+      "then": "The owner of that parcel must take all necessary steps to rectify within 7 days of receipt of Form 28.",
+      "cites": [
+       "Reg r.61(1)"
+      ]
+     },
+     {
+      "if": "Caused by common property or limited common property, after its defect liability period",
+      "then": "The developer, JMB, MC, subsidiary MC or managing agent must take all necessary steps to rectify within 7 days of the date of issue of Form 28.",
+      "cites": [
+       "Reg r.62"
+      ]
+     },
+     {
+      "if": "Within the parcel's defect liability period and due to defective workmanship or materials, or non-compliance with the approved plans",
+      "then": "The purchaser, parcel owner or proprietor may claim against the developer under the sale and purchase agreement.",
+      "cites": [
+       "Reg r.60(1)"
+      ]
+     },
+     {
+      "if": "Within the common property's or limited common property's defect liability period and due to defective workmanship or materials, or non-compliance with the approved plans",
+      "then": "The owner may claim against the Common Property Defects Account in Form 27, paying the prescribed fee of RM50.00.",
+      "cites": [
+       "Reg r.60(2)",
+       "Reg r.50(4)",
+       "Form 27",
+       "Reg First Schedule"
+      ]
+     }
+    ],
+    "cites": [
+     "Reg r.60(1)",
+     "Reg r.60(2)",
+     "Reg r.61(1)",
+     "Reg r.62"
+    ]
+   },
+   {
+    "title": "Common Property Defects Account claim handled",
+    "actor": "Commissioner / Developer",
+    "detail": "This step applies only to a Form 27 claim. Within 14 days of receiving it, the Commissioner gives the developer a notice that specifies the defects, the start and completion times, and that the works must be done with due diligence to the Commissioner's satisfaction. If the notice is not complied with, the Commissioner may appoint a registered architect, engineer, quantity surveyor or building surveyor to quantify or carry out the works. Once notified of that appointment, the developer may not continue the works without the Commissioner's written consent.",
+    "deadline": "Commissioner's notice within 14 days of Form 27. Developer must apply for an extension at least 7 days before the period expires. Commissioner notifies the developer of any appointment within 7 days. Developer pays any shortfall within 14 days of written notice.",
+    "penalty": "If the developer does not pay the shortfall over the deposit within 14 days, interest runs at 10% per annum on a daily basis.",
+    "branches": [],
+    "cites": [
+     "Reg r.51(1)",
+     "Reg r.51(2)",
+     "Reg r.52(1)",
+     "Reg r.52(2)",
+     "Reg r.53"
+    ]
+   },
+   {
+    "title": "Default: managing body repairs and recovers cost",
+    "actor": "Developer / JMB / MC / Subsidiary MC / Managing agent",
+    "detail": "If the responsible parcel owner fails to take the necessary steps, the managing body must immediately rectify the leakage and charge and recover all cost and expense from the responsible party. Under the Act, money spent because of a person's wilful or negligent act, omission or by-law breach is recoverable as a debt in court or before the Tribunal.",
+    "deadline": "Immediately after the parcel owner's 7-day period lapses",
+    "penalty": "The repair cost becomes a debt recoverable from the responsible party.",
+    "branches": [],
+    "cites": [
+     "Reg r.61(2)",
+     "Act s.21(4)",
+     "Act s.59(6)",
+     "By-law 16"
+    ]
+   },
+   {
+    "title": "Refer dispute to the Commissioner",
+    "actor": "Any dissatisfied person / Commissioner",
+    "detail": "Anyone not satisfied with a decision made against them under Regs 55 to 64 may refer it to the Commissioner. The Commissioner then determines the cause and the responsible party. The Commissioner may appoint a registered architect, engineer, quantity surveyor or building surveyor to assist, at the cost of the party responsible. All parties must comply with the Commissioner's decision.",
+    "deadline": null,
+    "penalty": null,
+    "branches": [
+     {
+      "if": "A party wants to challenge the Commissioner's decision or claim repair costs",
+      "then": "The Tribunal can hear a claim to affirm, vary or revoke the Commissioner's decision. It can also hear disputes on costs or repairs for defects, subject to s.16N(2) of the Housing Development (Control and Licensing) Act 1966, provided the award sought does not exceed RM250,000. The s.142 presumption about the unit above applies in Tribunal and court proceedings.",
+      "cites": [
+       "Act Fourth Schedule",
+       "Act s.105(1)",
+       "Act s.142"
+      ]
+     }
+    ],
+    "cites": [
+     "Reg r.64(1)",
+     "Reg r.64(2)",
+     "Reg r.64(3)"
+    ]
+   }
+  ],
+  "key_numbers": [
+   {
+    "label": "Managing body must inspect after receiving notice",
+    "value": "As soon as practically possible or within 7 days",
+    "cite": "Reg r.57"
+   },
+   {
+    "label": "Issue Form 28 certificate after inspection completed",
+    "value": "5 days (extendable by Commissioner)",
+    "cite": "Reg r.59"
+   },
+   {
+    "label": "Parcel owner must rectify after receipt of Form 28",
+    "value": "7 days",
+    "cite": "Reg r.61(1)"
+   },
+   {
+    "label": "Managing body must rectify common property leak (after defect liability period) from issue of Form 28",
+    "value": "7 days",
+    "cite": "Reg r.62"
+   },
+   {
+    "label": "Written notice required for access (except emergency)",
+    "value": "7 days",
+    "cite": "Reg r.63(1)"
+   },
+   {
+    "label": "Maximum fine for refusing access",
+    "value": "Fifty thousand (as written) and/or 3 years' imprisonment",
+    "cite": "Reg r.63(2)"
+   },
+   {
+    "label": "Fee to file Form 27 claim against Common Property Defects Account",
+    "value": "RM50.00",
+    "cite": "Reg First Schedule"
+   },
+   {
+    "label": "Commissioner's notice to developer after Form 27",
+    "value": "14 days",
+    "cite": "Reg r.51(1)"
+   },
+   {
+    "label": "Interest on developer's unpaid rectification shortfall",
+    "value": "10% per annum, daily",
+    "cite": "Reg r.53"
+   },
+   {
+    "label": "Damp proof membrane upturn at wall junction when changing wet-area floor finishes",
+    "value": "At least 150 mm",
+    "cite": "By-law 27"
+   }
+  ],
+  "memory_hook": "Notice → 7 to inspect → 5 to certify (Form 28) → 7 to fix → Commissioner if you disagree; the unit above is presumed guilty."
+ },
+ {
+  "slug": "defects-deposit",
+  "title": "Developer's deposit to rectify common property defects",
+  "summary": "Before handing over vacant possession, a developer must give the Commissioner of Buildings notice and then lodge a cash or bank-guarantee deposit. The Commissioner can use this deposit to rectify defects in the common property during the defect liability period. Purchasers, proprietors, management bodies and others may claim against the deposit; the developer is first ordered to fix the defects, and if it fails the Commissioner arranges the works, recovers any shortfall and refunds whatever is left at the end.",
+  "steps": [
+   {
+    "title": "Developer notifies intention to deliver vacant possession",
+    "actor": "Developer",
+    "detail": "Within twenty-one days prior to delivering vacant possession of a parcel, the developer gives the Commissioner written notice in Form 25 with the prescribed fee of RM100.00. The notice must come with a certificate of the estimated costs of construction from the developer's architect or engineer. 'Estimated costs of construction' includes financial costs, overhead costs and all other completion expenses, but excludes land cost.",
+    "deadline": "Within 21 days prior to delivery of vacant possession",
+    "penalty": null,
+    "branches": [],
+    "cites": [
+     "Reg r.46(1)",
+     "Reg r.46(2)",
+     "Reg r.46(3)",
+     "Form 25",
+     "Reg First Schedule"
+    ]
+   },
+   {
+    "title": "Commissioner fixes the deposit amount",
+    "actor": "Commissioner",
+    "detail": "On receiving Form 25, the Commissioner determines the deposit. It must be not less than 0.5% of the estimated costs of construction or RM50,000, whichever is higher. The Commissioner notifies the developer of the amount in Form 26.",
+    "deadline": null,
+    "penalty": null,
+    "branches": [],
+    "cites": [
+     "Act s.92(1)",
+     "Reg r.47(1)",
+     "Reg r.47(2)",
+     "Form 26"
+    ]
+   },
+   {
+    "title": "Developer pays deposit at vacant possession",
+    "actor": "Developer",
+    "detail": "The developer pays the deposit stated in Form 26 to the Commissioner in cash or by bank guarantee upon handing over vacant possession of a parcel to a purchaser. Form 26 itself says payment is to be made before vacant possession is handed over. A bank guarantee must be valid for the whole defect liability period of the common property, and must be irrevocable, unconditional and payable on demand.",
+    "deadline": "Upon handing over vacant possession",
+    "penalty": "Failing to comply with s.92(1) is an offence: on conviction, a fine not exceeding RM5,000 plus a further fine not exceeding RM50 for every day or part of a day the offence continues after conviction.",
+    "branches": [
+     {
+      "if": "Developer pays by bank guarantee instead of cash",
+      "then": "The guarantee must cover the whole common property defect liability period and be irrevocable, unconditional and payable on demand.",
+      "cites": [
+       "Reg r.49"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.92(2)",
+     "Reg r.48",
+     "Reg r.49",
+     "Act s.92(6)",
+     "Form 26"
+    ]
+   },
+   {
+    "title": "Cash placed in Common Property Defects Account",
+    "actor": "Commissioner",
+    "detail": "The Commissioner places all cash deposits and further sums into a separate income-bearing trust account called the Common Property Defects Account. It is held with a bank or financial institution, separately from the local authority's other accounts. There is one such account for each development area.",
+    "deadline": null,
+    "penalty": null,
+    "branches": [],
+    "cites": [
+     "Reg r.50(1)",
+     "Reg r.50(2)",
+     "Reg r.2"
+    ]
+   },
+   {
+    "title": "Eligible person files claim (Form 27)",
+    "actor": "Purchaser / Proprietor / JMB / MC / SMC / Managing agent",
+    "detail": "During the defect liability period of the common property, a claim may be made by: a purchaser; a proprietor; a JMB; an MC; an SMC; or a managing agent appointed by the Commissioner under s.86(1) or s.91(1). Any other interested person may claim with the Commissioner's permission. The claim is made in Form 27 with a fee of RM50.00.",
+    "deadline": "During the defect liability period of the common property",
+    "penalty": null,
+    "branches": [
+     {
+      "if": "Claimant is some other interested person",
+      "then": "That person may claim only with the Commissioner's permission.",
+      "cites": [
+       "Reg r.50(3)"
+      ]
+     },
+     {
+      "if": "An inter-floor leakage (or party wall damage) is caused by common property within its defect liability period, due to defective workmanship or materials or non-compliance with approved plans",
+      "then": "The purchaser, parcel owner or proprietor may claim against the Common Property Defects Account under r.50(4).",
+      "cites": [
+       "Reg r.60(2)",
+       "Reg r.67"
+      ]
+     },
+     {
+      "if": "The matter is a dispute on costs or repairs for a defect in common property",
+      "then": "It may fall within the Strata Management Tribunal's jurisdiction. This is subject to s.16N(2) of the Housing Development (Control and Licensing) Act 1966 and to the RM250,000 award limit.",
+      "cites": [
+       "Act Fourth Schedule",
+       "Act s.105(1)"
+      ]
+     }
+    ],
+    "cites": [
+     "Reg r.50(3)",
+     "Reg r.50(4)",
+     "Form 27",
+     "Reg First Schedule"
+    ]
+   },
+   {
+    "title": "Commissioner orders developer to rectify",
+    "actor": "Commissioner",
+    "detail": "Within fourteen days of receiving Form 27, the Commissioner gives the developer a notice specifying: the defects to be rectified; when the works must commence; when the works must be completed; and that the works must be carried out with due diligence to the Commissioner's satisfaction.",
+    "deadline": "Within 14 days of receipt of Form 27",
+    "penalty": null,
+    "branches": [
+     {
+      "if": "Developer cannot complete the works within the time specified",
+      "then": "The developer must apply to the Commissioner for an extension at least seven days before the time expires. The Commissioner may grant or refuse it at his discretion.",
+      "cites": [
+       "Reg r.51(2)"
+      ]
+     }
+    ],
+    "cites": [
+     "Reg r.51(1)"
+    ]
+   },
+   {
+    "title": "Commissioner appoints professional if developer defaults",
+    "actor": "Commissioner",
+    "detail": "If the developer does not comply with the notice, or does not comply to the Commissioner's satisfaction, the Commissioner may appoint a registered architect, engineer, quantity surveyor or building surveyor to quantify the works and/or carry them out. The Commissioner may use the deposit for this work. He must notify the developer of the appointment within seven days, after which the developer may not carry out or continue any rectification works without the Commissioner's written consent.",
+    "deadline": "Notice of appointment to developer within 7 days of the appointment",
+    "penalty": "The developer loses the right to carry out or continue rectification works without the Commissioner's written consent.",
+    "branches": [],
+    "cites": [
+     "Reg r.52(1)",
+     "Reg r.52(2)",
+     "Act s.92(3)"
+    ]
+   },
+   {
+    "title": "Top-up and recovery of shortfall",
+    "actor": "Commissioner / Developer",
+    "detail": "If the Commissioner determines the deposit is insufficient, he may direct the developer to deposit further sums within fourteen days. The Commissioner may recover all expenses reasonably incurred in relation to the account. Where rectification costs exceed the deposit and further sums, the developer must pay the shortfall within fourteen days of written notice.",
+    "deadline": "Further sums: within 14 days of the direction; shortfall: within 14 days after written notice",
+    "penalty": "If the shortfall is not paid, the developer pays interest at 10% per annum on a daily basis.",
+    "branches": [],
+    "cites": [
+     "Act s.92(4)",
+     "Reg r.53"
+    ]
+   },
+   {
+    "title": "Refund of unexpended deposit",
+    "actor": "Commissioner",
+    "detail": "Any unexpended deposit or further sums, together with accrued income, is refunded to the developer on the later of two dates. The first is the expiry of the common property defect liability period. The second, where a r.51(1) rectification notice was issued, is completion of the works to the Commissioner's satisfaction. Appointing a managing agent does not relieve the developer of its obligation to repair common property defects during the defect liability period.",
+    "deadline": "On expiry of the defect liability period, or completion of rectification works, whichever is later",
+    "penalty": null,
+    "branches": [
+     {
+      "if": "A rectification notice under r.51(1) was issued",
+      "then": "The refund waits until the rectification works are completed to the Commissioner's satisfaction, if that is later than the end of the defect liability period.",
+      "cites": [
+       "Reg r.54"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.92(5)",
+     "Reg r.54",
+     "Act s.90"
+    ]
+   }
+  ],
+  "key_numbers": [
+   {
+    "label": "Notice of intention to deliver vacant possession (Form 25)",
+    "value": "Within 21 days prior to vacant possession",
+    "cite": "Reg r.46(1)"
+   },
+   {
+    "label": "Minimum deposit (percentage limb)",
+    "value": "0.5% of estimated costs of construction (excluding land cost)",
+    "cite": "Reg r.47(1)"
+   },
+   {
+    "label": "Minimum deposit (floor; whichever is higher)",
+    "value": "RM50,000",
+    "cite": "Reg r.47(1)"
+   },
+   {
+    "label": "Fee for filing Form 25",
+    "value": "RM100.00",
+    "cite": "Reg First Schedule"
+   },
+   {
+    "label": "Fee for a claim against the Common Property Defects Account (Form 27)",
+    "value": "RM50.00",
+    "cite": "Reg First Schedule"
+   },
+   {
+    "label": "Commissioner's notice to developer after a claim",
+    "value": "Within 14 days of receiving Form 27",
+    "cite": "Reg r.51(1)"
+   },
+   {
+    "label": "Developer's application for extension of time",
+    "value": "At least 7 days before the time expires",
+    "cite": "Reg r.51(2)"
+   },
+   {
+    "label": "Top-up of insufficient deposit / payment of shortfall",
+    "value": "14 days",
+    "cite": "Act s.92(4)"
+   },
+   {
+    "label": "Interest on unpaid shortfall",
+    "value": "10% per annum, daily basis",
+    "cite": "Reg r.53"
+   },
+   {
+    "label": "Penalty for failing to deposit",
+    "value": "Fine up to RM5,000 + up to RM50 per day",
+    "cite": "Act s.92(6)"
+   }
+  ],
+  "memory_hook": "21 days' notice → 0.5% or RM50k (whichever higher) at vacant possession → Form 27 claim → developer gets 14-day notice to fix, else the Commissioner's professional fixes it → shortfall in 14 days at 10% interest → refund after the DLP."
+ },
+ {
+  "slug": "tribunal-claim",
+  "title": "Strata Management Tribunal claim",
+  "summary": "The Strata Management Tribunal, established by the Act, hears disputes and claims listed in Part 1 of the Fourth Schedule where the award sought does not exceed RM250,000. Examples include recovering Charges or sinking fund contributions, defect disputes, invalidating meetings or resolutions, and reviewing the Commissioner's decisions. A claim moves through filing, possible negotiated settlement, hearing and award. The award is final and binding (subject to a High Court challenge for serious irregularity), and failing to comply with it is a criminal offence. Note: the Act applies only to Peninsular Malaysia and Labuan, and the prescribed Tribunal claim form and fee are set by regulations under Part IX that are not included in the provided text.",
+  "steps": [
+   {
+    "title": "Confirm you are entitled to file",
+    "actor": "Claimant (developer, purchaser, proprietor, JMB, MC, SMC, managing agent)",
+    "detail": "Only these may file a claim: a developer, a purchaser, a proprietor (including an original proprietor), a joint management body, a management corporation, a subsidiary management corporation, or a managing agent. Any other interested person needs the Tribunal's leave. A JMB, MC or SMC can sue on behalf of owners jointly entitled in respect of common property or limited common property.",
+    "deadline": null,
+    "penalty": null,
+    "branches": [
+     {
+      "if": "The claimant is some other interested person (e.g. a tenant)",
+      "then": "They may file only with the leave of the Tribunal",
+      "cites": [
+       "Act s.107"
+      ]
+     },
+     {
+      "if": "The dispute concerns common property and the owners are jointly entitled or liable",
+      "then": "Proceedings may be taken by or against the JMB or MC (or the SMC for limited common property) as if it were the owners",
+      "cites": [
+       "Act s.143(2)",
+       "Act s.143(3)"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.107",
+     "Act s.101(1)",
+     "Act s.143(2)"
+    ]
+   },
+   {
+    "title": "Check the claim is within jurisdiction",
+    "actor": "Claimant",
+    "detail": "The claim must fall within Part 1 of the Fourth Schedule. Examples include disputes over performance of duties under the Act, defect costs or repairs, recovery of Charges or sinking fund contributions or statutory debts, orders to convene meetings, nullifying resolutions, revoking by-law amendments, varying the late-payment interest rate, compelling supply of documents, and affirming, varying or revoking the Commissioner's decision. The total amount sought must not exceed RM250,000 (or another prescribed amount). The Limitation Act 1953 does not apply to Tribunal proceedings.",
+    "deadline": null,
+    "penalty": null,
+    "branches": [
+     {
+      "if": "The title to land, an estate or interest in land, or a franchise is in question",
+      "then": "The Tribunal has no jurisdiction",
+      "cites": [
+       "Act s.105(3)"
+      ]
+     },
+     {
+      "if": "The claim exceeds RM250,000 (or the prescribed substitute amount)",
+      "then": "It falls outside the Tribunal's jurisdiction",
+      "cites": [
+       "Act s.105(1)"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.105(1)",
+     "Act s.105(2)",
+     "Act s.105(3)",
+     "Act Fourth Schedule",
+     "Act s.34(2)",
+     "Act s.78(2)",
+     "Act s.32(7)",
+     "Act s.70(7)"
+    ]
+   },
+   {
+    "title": "Choose the forum: Tribunal or court",
+    "actor": "Claimant",
+    "detail": "Once a claim within jurisdiction is filed with the Tribunal, the same issues between the same parties cannot be litigated in court. Two exceptions apply: the court case started first, or the Tribunal claim is withdrawn, abandoned or struck out. The reverse rule applies where the court case came first.",
+    "deadline": null,
+    "penalty": null,
+    "branches": [
+     {
+      "if": "Court proceedings on the same issues between the same parties began before the Tribunal claim was filed",
+      "then": "The Tribunal cannot hear those issues unless the court claim is withdrawn, abandoned or struck out",
+      "cites": [
+       "Act s.106(1)(a)",
+       "Act s.106(2)"
+      ]
+     },
+     {
+      "if": "The Tribunal claim is withdrawn, abandoned or struck out",
+      "then": "The issues may then be taken to court",
+      "cites": [
+       "Act s.106(1)(b)"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.106(1)",
+     "Act s.106(2)"
+    ]
+   },
+   {
+    "title": "File the claim in prescribed form",
+    "actor": "Claimant",
+    "detail": "The claim is made in the prescribed form with the prescribed fee, in accordance with regulations made under Part IX. The claim is deemed made when this is complied with. The prescribed form and fee are not in the provided text. A JMB, MC or SMC may act through any person it authorises for the proceedings.",
+    "deadline": null,
+    "penalty": null,
+    "branches": [],
+    "cites": [
+     "Act s.108",
+     "Act s.106(3)",
+     "Act s.124(2)",
+     "Act s.143(1)"
+    ]
+   },
+   {
+    "title": "Tribunal assesses negotiated settlement",
+    "actor": "Tribunal",
+    "detail": "For every claim, the Tribunal must assess whether it is appropriate to help the parties negotiate an agreed settlement. In doing so it considers any factors likely to impair a party's ability to negotiate.",
+    "deadline": null,
+    "penalty": null,
+    "branches": [
+     {
+      "if": "The parties reach an agreed settlement",
+      "then": "The Tribunal approves and records it in writing, and it takes effect as if it were an award",
+      "cites": [
+       "Act s.112(3)",
+       "Act s.119"
+      ]
+     },
+     {
+      "if": "Assisting is not appropriate, or the parties cannot agree",
+      "then": "The Tribunal proceeds to determine the claim",
+      "cites": [
+       "Act s.112(4)"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.112(1)",
+     "Act s.112(2)"
+    ]
+   },
+   {
+    "title": "Hearing before a single member",
+    "actor": "Tribunal, parties",
+    "detail": "The claim is heard by one member sitting alone (the Chairman, the Deputy Chairman or a member chosen by the Chairman), and proceedings are open to the public. Every party may attend and be heard. No advocate and solicitor is allowed unless the matter involves complex issues of law and one party would suffer severe financial hardship without one; if one party is allowed a lawyer, so is the other. A corporation may be represented by a full-time paid employee.",
+    "deadline": null,
+    "penalty": null,
+    "branches": [
+     {
+      "if": "The presiding member dies, becomes incapacitated or cannot complete the case",
+      "then": "The claim is heard afresh by another member, unless the parties agree it may continue",
+      "cites": [
+       "Act s.109(3)"
+      ]
+     },
+     {
+      "if": "The presiding member's term expires mid-case",
+      "then": "The term is deemed extended until the claim is finally disposed of",
+      "cites": [
+       "Act s.109(4)"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.109(1)",
+     "Act s.110(1)",
+     "Act s.110(2)",
+     "Act s.110(3)",
+     "Act s.110(4)",
+     "Act s.111"
+    ]
+   },
+   {
+    "title": "Conduct of proceedings and evidence",
+    "actor": "Tribunal",
+    "detail": "The Tribunal must act fairly and impartially, giving each party a reasonable opportunity to present its case. It may hold oral hearings or decide on documents, and it is not bound by the Evidence Act 1950. It may inspect the site, order discovery, summon witnesses and appoint experts. Material supplied by one party must be communicated to the other. In defect cases involving dampness or water penetration on a ceiling, the defect is presumed to be in the parcel or area above unless proved otherwise.",
+    "deadline": null,
+    "penalty": null,
+    "branches": [
+     {
+      "if": "A party requests it, or the Tribunal considers it necessary, after an expert report",
+      "then": "The expert attends a hearing where the parties may question them and call their own experts",
+      "cites": [
+       "Act s.116(2)"
+      ]
+     },
+     {
+      "if": "A question of law is important or sufficiently doubtful",
+      "then": "The Tribunal may refer it to a High Court Judge and must make its award in conformity with the decision",
+      "cites": [
+       "Act s.118(1)",
+       "Act s.118(2)"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.113",
+     "Act s.114(1)",
+     "Act s.114(2)",
+     "Act s.115",
+     "Act s.116(1)",
+     "Act s.142"
+    ]
+   },
+   {
+    "title": "Tribunal makes a reasoned award",
+    "actor": "Tribunal",
+    "detail": "The award must be made without delay, with reasons. Available orders include payment of money, refunds, compensation or damages, and rectifying or setting aside contracts or additional by-laws. The Tribunal may also award costs, interest at not more than 8% per annum, or dismiss frivolous or vexatious claims. The award is recorded in writing, is final and binding (subject to s.121), and is deemed an order of a court.",
+    "deadline": "Without delay and, where practicable, within 60 days from the first day of the hearing",
+    "penalty": null,
+    "branches": [],
+    "cites": [
+     "Act s.117(1)",
+     "Act s.117(2)",
+     "Act s.117(3)",
+     "Act s.117(4)",
+     "Act Fourth Schedule",
+     "Act s.119",
+     "Act s.120(1)"
+    ]
+   },
+   {
+    "title": "Challenge for serious irregularity",
+    "actor": "Dissatisfied party, High Court",
+    "detail": "A party may, on notice to the other party and the Tribunal, apply to the High Court on the ground of serious irregularity that caused substantial injustice. The listed irregularities are: failure to act fairly under s.113, failure to deal with all relevant issues, or uncertainty or ambiguity about the award's effect. The High Court may remit the award for reconsideration or set it aside, in whole or in part.",
+    "deadline": null,
+    "penalty": null,
+    "branches": [
+     {
+      "if": "Serious irregularity is shown",
+      "then": "The High Court remits the award to the Tribunal or sets it aside, wholly or partly",
+      "cites": [
+       "Act s.121(2)"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.121(1)",
+     "Act s.121(3)"
+    ]
+   },
+   {
+    "title": "Enforce the award; non-compliance is an offence",
+    "actor": "Winning party, Secretary, court",
+    "detail": "Any party may enforce the award as a court order. If it is not complied with, the Secretary sends a copy to the relevant court, which records it. Documents produced in the proceedings that are not collected within 6 months vest in the Government.",
+    "deadline": null,
+    "penalty": "Failing to comply with an award is an offence: a fine not exceeding RM250,000, or imprisonment not exceeding 3 years, or both. For a continuing offence, a further fine not exceeding RM5,000 for every day or part of a day the offence continues after conviction.",
+    "branches": [],
+    "cites": [
+     "Act s.120(1)",
+     "Act s.120(2)",
+     "Act s.123",
+     "Act s.122(2)"
+    ]
+   }
+  ],
+  "key_numbers": [
+   {
+    "label": "Maximum total amount of a claim (jurisdiction limit)",
+    "value": "RM250,000",
+    "cite": "Act s.105(1)"
+   },
+   {
+    "label": "Target time to make the award, from the first hearing day",
+    "value": "60 days (where practicable)",
+    "cite": "Act s.117(1)"
+   },
+   {
+    "label": "Maximum interest the Tribunal may award",
+    "value": "8% per annum",
+    "cite": "Act Fourth Schedule"
+   },
+   {
+    "label": "Fine for not complying with an award",
+    "value": "Up to RM250,000 and/or up to 3 years' jail",
+    "cite": "Act s.123"
+   },
+   {
+    "label": "Continuing offence fine for non-compliance",
+    "value": "Up to RM5,000 per day",
+    "cite": "Act s.123"
+   },
+   {
+    "label": "Limitation Act 1953 in Tribunal proceedings",
+    "value": "Does not apply",
+    "cite": "Act s.105(2)"
+   },
+   {
+    "label": "Minimum standing of advocate members",
+    "value": "7 years",
+    "cite": "Act s.103(1)"
+   },
+   {
+    "label": "Uncollected documents vest in the Government after",
+    "value": "6 months",
+    "cite": "Act s.122(2)"
+   }
+  ],
+  "memory_hook": "File (≤RM250k), Try to settle, Hear (no lawyers), Award in 60 days (≤8% interest), Comply or RM250k fine."
+ },
+ {
+  "slug": "accounts-funds",
+  "title": "Maintenance account vs sinking fund",
+  "summary": "Every strata development has two separate trust-style bank accounts. The **maintenance account** holds the 'charges' for day-to-day running costs, and the **sinking fund account** holds a contribution of at least 10% of the charges for capital works. Responsibility for opening, operating, auditing and handing over these accounts passes from the developer to the JMB and then to the MC (or from the developer straight to the MC if no JMB is established). A subsidiary MC keeps its own pair of accounts for limited common property.",
+  "steps": [
+   {
+    "title": "Developer opens both accounts",
+    "actor": "Developer",
+    "detail": "Before the MC exists, the developer opens one maintenance account and one sinking fund account for each development area with a bank or financial institution. No one may collect charges or sinking fund contributions until both accounts are open and vacant possession has been delivered to the purchaser.",
+    "deadline": "If vacant possession was delivered before the Act commenced: on the commencement date. Otherwise: at any time before delivery of vacant possession, and in any case before charges or contributions are collected.",
+    "penalty": "Fine up to RM250,000 or up to 3 years' imprisonment or both (s.10(7), s.11(7)); same for collecting before the accounts are opened (s.13(3)).",
+    "branches": [
+     {
+      "if": "The MC already exists when vacant possession is delivered and no JMB is established (Part V)",
+      "then": "The developer opens both accounts in the name of the MC. If vacant possession was delivered after commencement but before the MC came into existence, this must be done within 14 days from the date the MC comes into existence, and in any case before charges are collected. Collecting earlier is an offence with a fine up to RM250,000.",
+      "cites": [
+       "Act s.47",
+       "Act s.50(1)",
+       "Act s.51(1)",
+       "Act s.53(1)",
+       "Act s.53(3)"
+      ]
+     },
+     {
+      "if": "The development was completed on or before commencement and the developer was already collecting money",
+      "then": "The developer may continue collecting until the JMB is established (or until the preliminary management period expires at the MC stage), provided all money is dealt with under the Act.",
+      "cites": [
+       "Act s.13(2)",
+       "Act s.53(2)"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.10(1)",
+     "Act s.11(1)",
+     "Act s.13(1)",
+     "Act s.10(7)",
+     "Act s.11(7)",
+     "Act s.13(3)"
+    ]
+   },
+   {
+    "title": "Developer fixes charges; owners pay",
+    "actor": "Developer / Purchasers",
+    "detail": "The developer determines the charges in proportion to the allocated share units of each parcel. The sinking fund contribution is fixed at 10% of the charges. The developer must pay the same amounts for unsold parcels. Purchasers must pay within 14 days of receiving the developer's notice, and late sums carry interest at 10% per annum on a daily basis.",
+    "deadline": "14 days from receiving the developer's notice",
+    "penalty": "A developer who fails to pay for unsold parcels faces a fine up to RM20,000 or up to 3 years or both, plus up to RM5,000 per day for a continuing offence (s.12(9)). Unpaid sums from purchasers are recoverable under s.34.",
+    "branches": [
+     {
+      "if": "A purchaser or proprietor disputes the amounts set by the developer",
+      "then": "They may apply to the Commissioner for a review. The Commissioner may determine the sum, or instruct the developer to appoint a registered property manager at the developer's own cost to recommend a sum, after which the Commissioner's figure is deemed to be the sum payable.",
+      "cites": [
+       "Act s.12(7)",
+       "Act s.12(8)",
+       "Act s.52(6)",
+       "Act s.52(7)"
+      ]
+     },
+     {
+      "if": "MC stage, during the preliminary management period",
+      "then": "The developer determines charges in proportion to share units, the sinking fund is 10% of charges, proprietors pay within 14 days, and late sums carry interest at 10% per annum on a daily basis. Arrears are recovered in the name of the MC under s.78. 'Proprietor' includes the developer for unsold parcels.",
+      "cites": [
+       "Act s.52(2)",
+       "Act s.52(3)",
+       "Act s.52(4)",
+       "Act s.52(5)",
+       "Act s.52(8)"
+      ]
+     },
+     {
+      "if": "Sum still unpaid after 14 days",
+      "then": "Serve a Form 11 demand giving at least 14 days. If it is still unpaid, sue in court or the Tribunal, or apply for attachment of movable property under s.35. An owner who fails to comply with the demand without reasonable excuse faces a fine up to RM5,000 or up to 3 years or both.",
+      "cites": [
+       "Act s.34(1)",
+       "Act s.34(2)",
+       "Act s.34(3)",
+       "Reg r.20"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.12(1)",
+     "Act s.12(2)",
+     "Act s.12(3)",
+     "Act s.12(4)",
+     "Act s.12(5)",
+     "Act s.12(6)",
+     "Act s.12(9)"
+    ]
+   },
+   {
+    "title": "Deposit money and use correctly",
+    "actor": "Developer",
+    "detail": "All charges and contributions, including the developer's own for unsold parcels, must be deposited within 3 working days. The money is not the developer's property and is held in trust for purchasers. The maintenance account may be used only for general or regular expenditure, such as day-to-day upkeep, cleaning, security, insurance premiums, minor painting, wiring and water tank inspection, audit fees and managing agent fees. The sinking fund may be used only for capital expenditure: painting or repainting common property, acquiring movable property, and renewing or replacing fixtures and fittings.",
+    "deadline": "Within 3 working days of receiving the moneys",
+    "penalty": "Fine up to RM250,000 or up to 3 years or both (s.10(7), s.11(7))",
+    "branches": [
+     {
+      "if": "The developer becomes insolvent or goes into liquidation",
+      "then": "The account money vests in the administrator, official receiver, trustee in bankruptcy or liquidator, to be applied only for the authorised purposes. Any remainder is transferred into the JMB's accounts.",
+      "cites": [
+       "Act s.10(5)",
+       "Act s.10(6)",
+       "Act s.11(5)",
+       "Act s.11(6)"
+      ]
+     },
+     {
+      "if": "More than RM5,000 is not required for immediate use",
+      "then": "The excess must be placed in an income-bearing deposit account.",
+      "cites": [
+       "Act s.36",
+       "Act s.80"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.10(3)",
+     "Act s.10(4)",
+     "Act s.11(3)",
+     "Act s.11(4)",
+     "Act s.10(7)",
+     "Act s.11(7)"
+    ]
+   },
+   {
+    "title": "Developer keeps and audits accounts",
+    "actor": "Developer / Commissioner",
+    "detail": "The developer prepares accounts from the start of the developer's management period and appoints an approved company auditor annually. Accounts are audited up to the date of transfer, or, if presented at the JMB's first AGM, up to a date not earlier than 3 months before that meeting. A certified true copy with the auditor's report goes to the Commissioner, who may also appoint an auditor at any time at the developer's expense.",
+    "deadline": "File with the Commissioner within 14 days of the accounts being audited",
+    "penalty": "Fine up to RM250,000 or up to 3 years or both (s.14(5); s.54(5) at the MC stage)",
+    "branches": [
+     {
+      "if": "MC stage (preliminary management period)",
+      "then": "The same duties apply under s.54, from the start of the preliminary management period.",
+      "cites": [
+       "Act s.54(1)",
+       "Act s.54(2)"
+      ]
+     },
+     {
+      "if": "The development was completed before the Act commenced and no MC was established",
+      "then": "The developer submits an audited account of all money collected and spent before the JMB was established, in Form 8, within 6 months after the JMB is established. The Commissioner may extend this by up to 3 months. Failure carries a fine up to RM250,000 or up to 3 years.",
+      "cites": [
+       "Act s.29(1)",
+       "Act s.29(2)",
+       "Act s.29(3)",
+       "Reg r.16"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.14(1)",
+     "Act s.14(2)",
+     "Act s.14(5)",
+     "Act s.9(2)"
+    ]
+   },
+   {
+    "title": "Developer hands balances to JMB",
+    "actor": "Developer",
+    "detail": "Before the developer's management period ends (one month after the JMB is established), the developer transfers all balances, after properly charged expenses, to the JMB using Form 4. It must also hand over the audited accounts, or unaudited accounts if no audit has been done yet, together with all invoices, receipts and vouchers.",
+    "deadline": "Before the developer's management period expires. If only unaudited accounts were handed over, the audited accounts are due not more than 3 months after expiry.",
+    "penalty": "Fine up to RM250,000 or up to 3 years or both, plus up to RM5,000 per day for a continuing offence (s.15(4))",
+    "branches": [
+     {
+      "if": "The developer does not transfer the balances",
+      "then": "The money, and the developer's rights and remedies over charges and contributions, vest in the JMB automatically on expiry of the developer's management period.",
+      "cites": [
+       "Act s.16(1)",
+       "Act s.16(2)"
+      ]
+     },
+     {
+      "if": "MC stage (no JMB)",
+      "then": "Not later than expiry of the preliminary management period, the developer transfers control of the balances to the MC's management committee using Form 13. Audited accounts are due within 3 months if unaudited accounts were handed over. Penalties are the same.",
+      "cites": [
+       "Act s.55(1)",
+       "Act s.55(2)",
+       "Act s.55(4)",
+       "Reg r.22"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.7(2)",
+     "Act s.15(1)",
+     "Act s.15(2)",
+     "Act s.15(4)",
+     "Reg r.11"
+    ]
+   },
+   {
+    "title": "JMB runs its own accounts",
+    "actor": "JMB / Parcel owners",
+    "detail": "The JMB opens and controls a maintenance account and a sinking fund account. It sets charges in proportion to allocated share units, and the developer pays for unsold parcels. The sinking fund is 10% of charges unless a general meeting decides otherwise, but it can never be less than 10%. Owners pay within 14 days of notice, and late interest is set at the first AGM but may not exceed 10% per annum.",
+    "deadline": "Owners pay within 14 days of notice. Form 5A notice of the rates must be issued within 28 days after the general meeting.",
+    "penalty": null,
+    "branches": [
+     {
+      "if": "Deciding what each fund may pay for",
+      "then": "The maintenance account covers general or regular costs, including insurance approved by special resolution and JMB/JMC allowances at Commissioner-approved rates. The sinking fund also covers upgrading and refurbishment, and any other capital expenditure the JMB deems necessary.",
+      "cites": [
+       "Act s.23(3)",
+       "Act s.24(2)"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.23(1)",
+     "Act s.23(2)",
+     "Act s.24(1)",
+     "Act s.25(2)",
+     "Act s.25(3)",
+     "Act s.25(4)",
+     "Act s.25(5)",
+     "Act s.25(6)",
+     "Act s.19(1)",
+     "Reg r.13"
+    ]
+   },
+   {
+    "title": "JMB keeps and audits accounts",
+    "actor": "JMB / Joint management committee",
+    "detail": "The JMB prepares accounts from its first AGM and appoints an approved company auditor annually. It must give the Commissioner full access, and the Commissioner may appoint an investigating auditor at the JMB's expense.",
+    "deadline": "File the certified audited accounts with the Commissioner within 14 days of the audit",
+    "penalty": "Every JMC member commits an offence, with a fine up to RM250,000 or up to 3 years or both. A member has a defence if he proves the offence happened without his knowledge, consent or connivance and that he exercised due diligence.",
+    "branches": [],
+    "cites": [
+     "Act s.26(1)",
+     "Act s.26(2)",
+     "Act s.26(5)",
+     "Act s.26(6)"
+    ]
+   },
+   {
+    "title": "JMB hands balances to MC",
+    "actor": "JMB",
+    "detail": "After the MC's first AGM, the JMB transfers all balances, after properly charged expenses, plus its accounts, assets, liabilities and records to the MC using Form 7. The JMB dissolves 3 months after the MC's first AGM.",
+    "deadline": "Not more than 1 month from the MC's first AGM. Audited accounts are due within 3 months if unaudited accounts were handed over.",
+    "penalty": "Every JMC member faces a fine up to RM250,000 or up to 3 years or both, subject to the due-diligence defence (s.27(4), s.27(5))",
+    "branches": [
+     {
+      "if": "The balances are not transferred",
+      "then": "The money, and the JMB's rights and liabilities, vest in the MC when the 1-month period expires.",
+      "cites": [
+       "Act s.28(1)",
+       "Act s.28(2)"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.27(1)",
+     "Act s.27(2)",
+     "Act s.27(3)",
+     "Act s.27(4)",
+     "Reg r.15"
+    ]
+   },
+   {
+    "title": "MC maintains accounts and audits",
+    "actor": "MC / Management committee",
+    "detail": "The MC opens the accounts if the developer has not already done so. At a general meeting it sets charges in proportion to share units or provisional share units, and may set different rates for parcels used for significantly different purposes. The sinking fund is a minimum of 10% of charges, and late interest may not exceed 10% per annum. Charges fall due when the resolution is passed. The MC must audit its accounts annually and file them with the Commissioner.",
+    "deadline": "Form 15 notice within 28 days after the general meeting. Audited accounts filed within 14 days of the audit.",
+    "penalty": "Every management committee member faces a fine up to RM250,000 or up to 3 years or both, subject to the due-diligence defence (s.62(5), s.62(6))",
+    "branches": [
+     {
+      "if": "A proprietor is in arrears",
+      "then": "Serve a Form 20 demand giving at least 2 weeks. If it is still unpaid, sue in court or the Tribunal, or apply for attachment under s.79.",
+      "cites": [
+       "Act s.78(1)",
+       "Act s.78(2)",
+       "Reg r.31"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.60(1)",
+     "Act s.60(2)",
+     "Act s.60(3)",
+     "Act s.60(4)",
+     "Act s.61(1)",
+     "Act s.61(3)",
+     "Act s.61(4)",
+     "Act s.62(1)",
+     "Act s.62(5)",
+     "Reg r.24"
+    ]
+   },
+   {
+    "title": "Subsidiary MC keeps separate accounts",
+    "actor": "Subsidiary MC",
+    "detail": "A subsidiary MC opens its own maintenance and sinking fund accounts for its limited common property. These may be used only for the same purposes as the MC's accounts. Its proprietors pay charges in proportion to share units, plus a sinking fund of at least 10% of charges, due when the resolution is passed. Each parcel's share of expenses is calculated as (A × C) ÷ B.",
+    "deadline": "Form 17 notice within 28 days after the general meeting",
+    "penalty": null,
+    "branches": [],
+    "cites": [
+     "Act s.64(3)",
+     "Act s.65",
+     "Act s.66(1)",
+     "Act s.66(2)",
+     "Act s.67(1)",
+     "Act s.67(2)",
+     "Act s.68(2)",
+     "Act s.68(3)",
+     "Act s.68(4)",
+     "Reg r.27"
+    ]
+   }
+  ],
+  "key_numbers": [
+   {
+    "label": "Minimum sinking fund contribution",
+    "value": "10% of the charges",
+    "cite": "Act s.25(4)"
+   },
+   {
+    "label": "Developer must deposit money into the accounts within",
+    "value": "3 working days",
+    "cite": "Act s.10(3)"
+   },
+   {
+    "label": "Owner must pay after receiving notice within",
+    "value": "14 days",
+    "cite": "Act s.12(5)"
+   },
+   {
+    "label": "Late-payment interest (developer stage: fixed rate; JMB/MC: maximum)",
+    "value": "10% per annum",
+    "cite": "Act s.12(6)"
+   },
+   {
+    "label": "Surplus above this must go into an income-bearing deposit",
+    "value": "RM5,000",
+    "cite": "Act s.36"
+   },
+   {
+    "label": "Filing audited accounts with the Commissioner",
+    "value": "within 14 days of audit",
+    "cite": "Act s.14(1)"
+   },
+   {
+    "label": "JMB transfers balances to MC within",
+    "value": "1 month from the MC's first AGM",
+    "cite": "Act s.27(2)"
+   },
+   {
+    "label": "Audited accounts due if unaudited ones were handed over",
+    "value": "3 months",
+    "cite": "Act s.15(2)"
+   },
+   {
+    "label": "Maximum fine for account and handover offences",
+    "value": "RM250,000 or 3 years",
+    "cite": "Act s.15(4)"
+   },
+   {
+    "label": "Notice of confirmed charges and rates (Form 5A / 15 / 17)",
+    "value": "within 28 days after the general meeting",
+    "cite": "Reg r.24"
+   }
+  ],
+  "memory_hook": "Two pots, one direction: Maintenance = Monthly running costs, Sinking = Structural/capital (never under 10%), and the money flows Developer → JMB → MC within the deadlines."
+ },
+ {
+  "slug": "managing-agent",
+  "title": "Managing agent appointed by the Commissioner",
+  "summary": "The Commissioner of Buildings may appoint one or more managing agents to take over the maintenance and management of a development. This happens in two cases: when the first AGM of a joint management body fails to elect a committee, or when the Commissioner finds, after an inquiry, that the developer, JMB, MC or subsidiary MC is not managing properly. The managing agent must be independent, lodge a bond and sign a management agreement. It then controls the maintenance and sinking fund accounts and acts in place of the managing body, and on termination it must hand back accounts and records to the Commissioner.",
+  "steps": [
+   {
+    "title": "Trigger: failed JMB AGM or complaint",
+    "actor": "Developer / Purchaser / Proprietor / Commissioner",
+    "detail": "First trigger: at the JMB's first AGM, no purchaser entitled to vote turns up within half an hour, or all purchasers present refuse to serve on the committee. The convenor must then inform the Commissioner, who may appoint a managing agent. Second trigger: a purchaser, proprietor or any other person with an interest in a parcel (registered or otherwise) complains, and after due inquiry the Commissioner is satisfied that maintenance and management are not being carried out satisfactorily.",
+    "deadline": "Convenor must inform the Commissioner within seven days of the date of the meeting",
+    "penalty": null,
+    "branches": [
+     {
+      "if": "First JMB AGM fails to produce a committee",
+      "then": "The Commissioner may either appoint a new date for the election of the joint management committee or appoint a managing agent",
+      "cites": [
+       "Act s.19(2)",
+       "Act s.86(1)(a)"
+      ]
+     },
+     {
+      "if": "Complaint about unsatisfactory management by the developer, JMB, MC or subsidiary MC",
+      "then": "The Commissioner (or a person appointed by him) carries out a due inquiry before deciding whether to appoint",
+      "cites": [
+       "Act s.86(1)(b)"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.19(2)",
+     "Act s.86(1)(a)",
+     "Act s.86(1)(b)"
+    ]
+   },
+   {
+    "title": "Commissioner appoints and sets terms",
+    "actor": "Commissioner",
+    "detail": "The Commissioner appoints one or more persons by written notification, for a period he specifies. At the time of appointment he must specify three things: the period of appointment, the remuneration or fees, and the amount of bond the managing agent must lodge.",
+    "deadline": null,
+    "penalty": null,
+    "branches": [],
+    "cites": [
+     "Act s.86(1)",
+     "Reg r.43(1)"
+    ]
+   },
+   {
+    "title": "Independence check",
+    "actor": "Commissioner",
+    "detail": "A person must not be appointed if he has a professional or pecuniary interest in the building or land. Such an interest exists if any of the following apply: (a) he was responsible for the design or construction of the building; (b) he or his nominees, officers or employees have a material interest in it; (c) he is a partner or employee of someone with a material interest; or (d) he or his family holds any interest in it, directly, as trustee or otherwise.",
+    "deadline": null,
+    "penalty": null,
+    "branches": [],
+    "cites": [
+     "Act s.87(1)",
+     "Act s.87(2)"
+    ]
+   },
+   {
+    "title": "Lodge bond before acting",
+    "actor": "Managing agent",
+    "detail": "Before acting, the managing agent must lodge with the Commissioner a bond in Form 24, given by a bank, finance company or insurer. The bond covers any loss caused by the managing agent's failure to account for monies received or held by him, and the Commissioner determines the amount. Under Form 24 the bond is valid until 12 months after the start of the appointment period and can be extended for 1 more year. Claims must be made within the validity period or one month after expiry, whichever is later. The filing fee is RM20.00.",
+    "deadline": "Before acting as managing agent",
+    "penalty": "Fine not exceeding RM50,000 or imprisonment not exceeding 3 years or both",
+    "branches": [],
+    "cites": [
+     "Act s.88",
+     "Reg r.44(1)",
+     "Reg r.44(2)",
+     "Reg r.44(3)",
+     "Form 24",
+     "Reg First Schedule"
+    ]
+   },
+   {
+    "title": "Fix remuneration and sign agreement",
+    "actor": "Managing agent / Developer, JMB, MC or subsidiary MC / Commissioner",
+    "detail": "Fees are agreed between the managing agent and the managing body with the Commissioner's concurrence, or determined by the Commissioner if they cannot agree. Either way, the fees are charged to the maintenance account. The managing agent and the body must both sign a management agreement in Form 23. Under that form, the body (the First Party) is not entitled to terminate the agreement.",
+    "deadline": "Within fourteen days from the date of appointment (both the managing agent and the body must sign within this period)",
+    "penalty": "Fine not exceeding RM50,000 or imprisonment not exceeding 3 years or both",
+    "branches": [
+     {
+      "if": "Remuneration cannot be agreed",
+      "then": "The Commissioner determines the remuneration or fees, charged to the maintenance account",
+      "cites": [
+       "Reg r.43(2)"
+      ]
+     },
+     {
+      "if": "The developer, JMB, MC or subsidiary MC does not sign Form 23",
+      "then": "The Commissioner may appoint any purchaser, parcel owner or proprietor to sign on the body's behalf",
+      "cites": [
+       "Reg r.43(4)"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.86(2)",
+     "Act s.86(3)",
+     "Reg r.43(2)",
+     "Reg r.43(3)",
+     "Reg r.43(4)",
+     "Reg r.43(5)",
+     "Form 23"
+    ]
+   },
+   {
+    "title": "Take control of accounts; opening statement",
+    "actor": "Managing agent",
+    "detail": "The managing agent takes control of the maintenance and sinking fund accounts. It acts as if it were the developer, JMB, MC or subsidiary MC, subject to the Commissioner's general directions. It must pay all monies received into those accounts. It must also submit to the Commissioner a statement, as at the date of appointment, covering four items: account balances, amounts owed by owners, income from common property, and unpaid authorised sums.",
+    "deadline": "Monies paid in within three working days of receipt; statement as soon as practicable and not more than one month after appointment",
+    "penalty": "Fine not exceeding RM250,000 or imprisonment not exceeding 3 years or both; continuing offence: further fine not exceeding RM5,000 per day after conviction",
+    "branches": [],
+    "cites": [
+     "Act s.89(1)",
+     "Act s.89(2)",
+     "Act s.89(3)",
+     "Act s.89(4)",
+     "Act s.89(5)"
+    ]
+   },
+   {
+    "title": "Set charges and sinking fund if undetermined",
+    "actor": "Managing agent / Parcel owner / Commissioner",
+    "detail": "If the managing body has not determined the charges or sinking fund contribution, the managing agent sets the charges in proportion to allocated share units or share units. The sinking fund contribution is 10% of the charges. A dissatisfied purchaser, parcel owner or proprietor may apply to the Commissioner for a review.",
+    "deadline": null,
+    "penalty": null,
+    "branches": [
+     {
+      "if": "An owner applies for review",
+      "then": "The Commissioner either determines the sum himself, or instructs the managing agent to appoint a registered property manager (at the managing body's cost) to recommend a sum. After receiving the report, the Commissioner determines a just and reasonable sum, which is deemed to be the sum payable",
+      "cites": [
+       "Reg r.45(2)",
+       "Reg r.45(3)"
+      ]
+     }
+    ],
+    "cites": [
+     "Reg r.45(1)",
+     "Reg r.45(2)",
+     "Reg r.45(3)"
+    ]
+   },
+   {
+    "title": "Run the building: recovery, leaks, claims",
+    "actor": "Managing agent",
+    "detail": "The managing agent may apply for a warrant of attachment against defaulters by sworn application in Form 21. Notice of an inter-floor leakage given to the managing agent is deemed notice to the managing body, with a copy to the Commissioner. The managing agent must then inspect and issue a Form 28 certificate. It may also file claims with the Tribunal and claim against the Common Property Defects Account. Its appointment does not relieve the developer of its defect-liability and construction-compliance obligations.",
+    "deadline": "Leak inspection as soon as practicable or within seven days of notice; Form 28 within five days of completing the inspection",
+    "penalty": null,
+    "branches": [],
+    "cites": [
+     "Reg r.35(1)",
+     "Form 21",
+     "Reg r.56(2)",
+     "Reg r.57",
+     "Reg r.59",
+     "Act s.107",
+     "Reg r.50(3)",
+     "Act s.90"
+    ]
+   },
+   {
+    "title": "Termination and handover to Commissioner",
+    "actor": "Managing agent / Commissioner",
+    "detail": "When the management agreement ends, the managing agent must submit unaudited accounts of the maintenance and sinking fund accounts to the Commissioner. It must also hand over a complete list of assets and liabilities and all records needed for management. Audited accounts follow later. The Commissioner may appoint another managing agent for a specified period.",
+    "deadline": "Unaudited accounts, list and records: not more than one month from termination; audited accounts: not later than three months from termination",
+    "penalty": "Fine not exceeding RM250,000 or imprisonment not exceeding 3 years or both",
+    "branches": [
+     {
+      "if": "The Commissioner decides continued management is needed",
+      "then": "He may appoint another managing agent, and the bond and agreement steps apply again",
+      "cites": [
+       "Act s.91(3)",
+       "Reg r.43(1)"
+      ]
+     }
+    ],
+    "cites": [
+     "Act s.91(1)",
+     "Act s.91(2)",
+     "Act s.91(3)",
+     "Form 23"
+    ]
+   }
+  ],
+  "key_numbers": [
+   {
+    "label": "Time for convenor to inform Commissioner of failed first JMB AGM",
+    "value": "7 days",
+    "cite": "Act s.19(2)"
+   },
+   {
+    "label": "Time to sign management agreement (Form 23)",
+    "value": "14 days from appointment",
+    "cite": "Reg r.43(3)"
+   },
+   {
+    "label": "Time to pay monies received into the accounts",
+    "value": "3 working days",
+    "cite": "Act s.89(3)"
+   },
+   {
+    "label": "Opening statement to Commissioner",
+    "value": "Not more than 1 month after appointment",
+    "cite": "Act s.89(4)"
+   },
+   {
+    "label": "Sinking fund set by managing agent",
+    "value": "10% of the charges",
+    "cite": "Reg r.45(1)"
+   },
+   {
+    "label": "Unaudited accounts, list and records after termination",
+    "value": "Not more than 1 month",
+    "cite": "Act s.91(1)"
+   },
+   {
+    "label": "Audited accounts after termination",
+    "value": "Not later than 3 months",
+    "cite": "Act s.91(1)"
+   },
+   {
+    "label": "Penalty for breaching s.89(3)/(4) or s.91(1)",
+    "value": "Up to RM250,000 and/or 3 years (s.89: plus RM5,000/day continuing)",
+    "cite": "Act s.89(5)"
+   },
+   {
+    "label": "Penalty for failing to lodge bond or sign agreement",
+    "value": "Up to RM50,000 and/or 3 years",
+    "cite": "Reg r.44(3)"
+   },
+   {
+    "label": "Fee for filing bond (Form 24)",
+    "value": "RM20.00",
+    "cite": "Reg First Schedule"
+   }
+  ],
+  "memory_hook": "Trigger → Independent → Bond → Sign in 14 → Bank in 3 → Report in 1 month → Exit: 1 month unaudited, 3 months audited."
+ }
+]
